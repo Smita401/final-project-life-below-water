@@ -1,0 +1,937 @@
+goal,target,indicator,country_code,country,year,source,beach_litter_in_ocean_value
+14,14.1,14.1.1,2,africa,2017,center for ocean-atmospheric prediction studies (coaps),465966.0
+14,14.1,14.1.1,2,africa,2018,center for ocean-atmospheric prediction studies (coaps),544479.0
+14,14.1,14.1.1,2,africa,2019,center for ocean-atmospheric prediction studies (coaps),554738.0
+14,14.1,14.1.1,2,africa,2020,center for ocean-atmospheric prediction studies (coaps),546428.0
+14,14.1,14.1.1,2,africa,2021,center for ocean-atmospheric prediction studies (coaps),557510.0
+14,14.1,14.1.1,2,africa,2022,center for ocean-atmospheric prediction studies (coaps),532117.0
+14,14.1,14.1.1,8,albania,2017,center for ocean-atmospheric prediction studies (coaps),11315.0
+14,14.1,14.1.1,8,albania,2018,center for ocean-atmospheric prediction studies (coaps),10981.0
+14,14.1,14.1.1,8,albania,2019,center for ocean-atmospheric prediction studies (coaps),11621.0
+14,14.1,14.1.1,8,albania,2020,center for ocean-atmospheric prediction studies (coaps),10807.0
+14,14.1,14.1.1,8,albania,2021,center for ocean-atmospheric prediction studies (coaps),11841.0
+14,14.1,14.1.1,12,algeria,2017,center for ocean-atmospheric prediction studies (coaps),85098.0
+14,14.1,14.1.1,12,algeria,2018,center for ocean-atmospheric prediction studies (coaps),105106.0
+14,14.1,14.1.1,12,algeria,2019,center for ocean-atmospheric prediction studies (coaps),100559.0
+14,14.1,14.1.1,12,algeria,2020,center for ocean-atmospheric prediction studies (coaps),90590.0
+14,14.1,14.1.1,12,algeria,2021,center for ocean-atmospheric prediction studies (coaps),91575.0
+14,14.1,14.1.1,19,americas,2017,center for ocean-atmospheric prediction studies (coaps),658847.0
+14,14.1,14.1.1,19,americas,2018,center for ocean-atmospheric prediction studies (coaps),688172.0
+14,14.1,14.1.1,19,americas,2019,center for ocean-atmospheric prediction studies (coaps),687353.0
+14,14.1,14.1.1,19,americas,2020,center for ocean-atmospheric prediction studies (coaps),737941.0
+14,14.1,14.1.1,19,americas,2021,center for ocean-atmospheric prediction studies (coaps),750856.0
+14,14.1,14.1.1,19,americas,2022,center for ocean-atmospheric prediction studies (coaps),793313.0
+14,14.1,14.1.1,24,angola,2017,center for ocean-atmospheric prediction studies (coaps),772.0
+14,14.1,14.1.1,24,angola,2018,center for ocean-atmospheric prediction studies (coaps),1451.0
+14,14.1,14.1.1,24,angola,2019,center for ocean-atmospheric prediction studies (coaps),660.0
+14,14.1,14.1.1,24,angola,2020,center for ocean-atmospheric prediction studies (coaps),374.0
+14,14.1,14.1.1,24,angola,2021,center for ocean-atmospheric prediction studies (coaps),558.0
+14,14.1,14.1.1,28,antigua and barbuda,2017,center for ocean-atmospheric prediction studies (coaps),198.0
+14,14.1,14.1.1,28,antigua and barbuda,2018,center for ocean-atmospheric prediction studies (coaps),204.0
+14,14.1,14.1.1,28,antigua and barbuda,2019,center for ocean-atmospheric prediction studies (coaps),231.0
+14,14.1,14.1.1,28,antigua and barbuda,2020,center for ocean-atmospheric prediction studies (coaps),271.0
+14,14.1,14.1.1,28,antigua and barbuda,2021,center for ocean-atmospheric prediction studies (coaps),273.0
+14,14.1,14.1.1,32,argentina,2017,center for ocean-atmospheric prediction studies (coaps),15049.0
+14,14.1,14.1.1,32,argentina,2018,center for ocean-atmospheric prediction studies (coaps),15594.0
+14,14.1,14.1.1,32,argentina,2019,center for ocean-atmospheric prediction studies (coaps),15942.0
+14,14.1,14.1.1,32,argentina,2020,center for ocean-atmospheric prediction studies (coaps),15567.0
+14,14.1,14.1.1,32,argentina,2021,center for ocean-atmospheric prediction studies (coaps),15596.0
+14,14.1,14.1.1,142,asia,2017,center for ocean-atmospheric prediction studies (coaps),3552453.0
+14,14.1,14.1.1,142,asia,2018,center for ocean-atmospheric prediction studies (coaps),3398314.0
+14,14.1,14.1.1,142,asia,2019,center for ocean-atmospheric prediction studies (coaps),3342776.0
+14,14.1,14.1.1,142,asia,2020,center for ocean-atmospheric prediction studies (coaps),3536857.0
+14,14.1,14.1.1,142,asia,2021,center for ocean-atmospheric prediction studies (coaps),3890447.0
+14,14.1,14.1.1,142,asia,2022,center for ocean-atmospheric prediction studies (coaps),3857987.0
+14,14.1,14.1.1,36,australia,2017,center for ocean-atmospheric prediction studies (coaps),1329.0
+14,14.1,14.1.1,36,australia,2018,center for ocean-atmospheric prediction studies (coaps),1529.0
+14,14.1,14.1.1,36,australia,2019,center for ocean-atmospheric prediction studies (coaps),1252.0
+14,14.1,14.1.1,36,australia,2020,center for ocean-atmospheric prediction studies (coaps),1433.0
+14,14.1,14.1.1,36,australia,2021,center for ocean-atmospheric prediction studies (coaps),1633.0
+14,14.1,14.1.1,53,australia and new zealand,2017,center for ocean-atmospheric prediction studies (coaps),1641.0
+14,14.1,14.1.1,53,australia and new zealand,2018,center for ocean-atmospheric prediction studies (coaps),1866.0
+14,14.1,14.1.1,53,australia and new zealand,2019,center for ocean-atmospheric prediction studies (coaps),1605.0
+14,14.1,14.1.1,53,australia and new zealand,2020,center for ocean-atmospheric prediction studies (coaps),1808.0
+14,14.1,14.1.1,53,australia and new zealand,2021,center for ocean-atmospheric prediction studies (coaps),2034.0
+14,14.1,14.1.1,53,australia and new zealand,2022,center for ocean-atmospheric prediction studies (coaps),2194.0
+14,14.1,14.1.1,44,bahamas,2017,center for ocean-atmospheric prediction studies (coaps),953.0
+14,14.1,14.1.1,44,bahamas,2018,center for ocean-atmospheric prediction studies (coaps),1030.0
+14,14.1,14.1.1,44,bahamas,2019,center for ocean-atmospheric prediction studies (coaps),1089.0
+14,14.1,14.1.1,44,bahamas,2020,center for ocean-atmospheric prediction studies (coaps),1143.0
+14,14.1,14.1.1,44,bahamas,2021,center for ocean-atmospheric prediction studies (coaps),1183.0
+14,14.1,14.1.1,48,bahrain,2017,center for ocean-atmospheric prediction studies (coaps),3.0
+14,14.1,14.1.1,48,bahrain,2018,center for ocean-atmospheric prediction studies (coaps),4.0
+14,14.1,14.1.1,48,bahrain,2019,center for ocean-atmospheric prediction studies (coaps),4.0
+14,14.1,14.1.1,48,bahrain,2020,center for ocean-atmospheric prediction studies (coaps),0.0
+14,14.1,14.1.1,48,bahrain,2021,center for ocean-atmospheric prediction studies (coaps),6.0
+14,14.1,14.1.1,50,bangladesh,2017,center for ocean-atmospheric prediction studies (coaps),127662.0
+14,14.1,14.1.1,50,bangladesh,2018,center for ocean-atmospheric prediction studies (coaps),138611.0
+14,14.1,14.1.1,50,bangladesh,2019,center for ocean-atmospheric prediction studies (coaps),136403.0
+14,14.1,14.1.1,50,bangladesh,2020,center for ocean-atmospheric prediction studies (coaps),136402.0
+14,14.1,14.1.1,50,bangladesh,2021,center for ocean-atmospheric prediction studies (coaps),119879.0
+14,14.1,14.1.1,52,barbados,2017,center for ocean-atmospheric prediction studies (coaps),223.0
+14,14.1,14.1.1,52,barbados,2018,center for ocean-atmospheric prediction studies (coaps),254.0
+14,14.1,14.1.1,52,barbados,2019,center for ocean-atmospheric prediction studies (coaps),274.0
+14,14.1,14.1.1,52,barbados,2020,center for ocean-atmospheric prediction studies (coaps),296.0
+14,14.1,14.1.1,52,barbados,2021,center for ocean-atmospheric prediction studies (coaps),304.0
+14,14.1,14.1.1,56,belgium,2017,center for ocean-atmospheric prediction studies (coaps),4.0
+14,14.1,14.1.1,56,belgium,2018,center for ocean-atmospheric prediction studies (coaps),10.0
+14,14.1,14.1.1,56,belgium,2019,center for ocean-atmospheric prediction studies (coaps),14.0
+14,14.1,14.1.1,56,belgium,2020,center for ocean-atmospheric prediction studies (coaps),7.0
+14,14.1,14.1.1,56,belgium,2021,center for ocean-atmospheric prediction studies (coaps),9.0
+14,14.1,14.1.1,84,belize,2017,center for ocean-atmospheric prediction studies (coaps),538.0
+14,14.1,14.1.1,84,belize,2018,center for ocean-atmospheric prediction studies (coaps),692.0
+14,14.1,14.1.1,84,belize,2019,center for ocean-atmospheric prediction studies (coaps),827.0
+14,14.1,14.1.1,84,belize,2020,center for ocean-atmospheric prediction studies (coaps),530.0
+14,14.1,14.1.1,84,belize,2021,center for ocean-atmospheric prediction studies (coaps),653.0
+14,14.1,14.1.1,204,benin,2017,center for ocean-atmospheric prediction studies (coaps),579.0
+14,14.1,14.1.1,204,benin,2018,center for ocean-atmospheric prediction studies (coaps),596.0
+14,14.1,14.1.1,204,benin,2019,center for ocean-atmospheric prediction studies (coaps),244.0
+14,14.1,14.1.1,204,benin,2020,center for ocean-atmospheric prediction studies (coaps),610.0
+14,14.1,14.1.1,204,benin,2021,center for ocean-atmospheric prediction studies (coaps),659.0
+14,14.1,14.1.1,76,brazil,2017,center for ocean-atmospheric prediction studies (coaps),284851.0
+14,14.1,14.1.1,76,brazil,2018,center for ocean-atmospheric prediction studies (coaps),305729.0
+14,14.1,14.1.1,76,brazil,2019,center for ocean-atmospheric prediction studies (coaps),300873.0
+14,14.1,14.1.1,76,brazil,2020,center for ocean-atmospheric prediction studies (coaps),328453.0
+14,14.1,14.1.1,76,brazil,2021,center for ocean-atmospheric prediction studies (coaps),353959.0
+14,14.1,14.1.1,96,brunei darussalam,2017,center for ocean-atmospheric prediction studies (coaps),543.0
+14,14.1,14.1.1,96,brunei darussalam,2018,center for ocean-atmospheric prediction studies (coaps),502.0
+14,14.1,14.1.1,96,brunei darussalam,2019,center for ocean-atmospheric prediction studies (coaps),495.0
+14,14.1,14.1.1,96,brunei darussalam,2020,center for ocean-atmospheric prediction studies (coaps),615.0
+14,14.1,14.1.1,96,brunei darussalam,2021,center for ocean-atmospheric prediction studies (coaps),627.0
+14,14.1,14.1.1,100,bulgaria,2017,center for ocean-atmospheric prediction studies (coaps),70.0
+14,14.1,14.1.1,100,bulgaria,2018,center for ocean-atmospheric prediction studies (coaps),29.0
+14,14.1,14.1.1,100,bulgaria,2019,center for ocean-atmospheric prediction studies (coaps),53.0
+14,14.1,14.1.1,100,bulgaria,2020,center for ocean-atmospheric prediction studies (coaps),30.0
+14,14.1,14.1.1,100,bulgaria,2021,center for ocean-atmospheric prediction studies (coaps),62.0
+14,14.1,14.1.1,132,cabo verde,2017,center for ocean-atmospheric prediction studies (coaps),1230.0
+14,14.1,14.1.1,132,cabo verde,2018,center for ocean-atmospheric prediction studies (coaps),1253.0
+14,14.1,14.1.1,132,cabo verde,2019,center for ocean-atmospheric prediction studies (coaps),1248.0
+14,14.1,14.1.1,132,cabo verde,2020,center for ocean-atmospheric prediction studies (coaps),1321.0
+14,14.1,14.1.1,132,cabo verde,2021,center for ocean-atmospheric prediction studies (coaps),1341.0
+14,14.1,14.1.1,116,cambodia,2017,center for ocean-atmospheric prediction studies (coaps),916.0
+14,14.1,14.1.1,116,cambodia,2018,center for ocean-atmospheric prediction studies (coaps),770.0
+14,14.1,14.1.1,116,cambodia,2019,center for ocean-atmospheric prediction studies (coaps),812.0
+14,14.1,14.1.1,116,cambodia,2020,center for ocean-atmospheric prediction studies (coaps),767.0
+14,14.1,14.1.1,116,cambodia,2021,center for ocean-atmospheric prediction studies (coaps),940.0
+14,14.1,14.1.1,120,cameroon,2017,center for ocean-atmospheric prediction studies (coaps),252.0
+14,14.1,14.1.1,120,cameroon,2018,center for ocean-atmospheric prediction studies (coaps),289.0
+14,14.1,14.1.1,120,cameroon,2019,center for ocean-atmospheric prediction studies (coaps),193.0
+14,14.1,14.1.1,120,cameroon,2020,center for ocean-atmospheric prediction studies (coaps),258.0
+14,14.1,14.1.1,120,cameroon,2021,center for ocean-atmospheric prediction studies (coaps),616.0
+14,14.1,14.1.1,124,canada,2017,center for ocean-atmospheric prediction studies (coaps),222.0
+14,14.1,14.1.1,124,canada,2018,center for ocean-atmospheric prediction studies (coaps),186.0
+14,14.1,14.1.1,124,canada,2019,center for ocean-atmospheric prediction studies (coaps),218.0
+14,14.1,14.1.1,124,canada,2020,center for ocean-atmospheric prediction studies (coaps),259.0
+14,14.1,14.1.1,124,canada,2021,center for ocean-atmospheric prediction studies (coaps),223.0
+14,14.1,14.1.1,29,caribbean,2022,center for ocean-atmospheric prediction studies (coaps),159548.0
+14,14.1,14.1.1,13,central america,2017,center for ocean-atmospheric prediction studies (coaps),75502.0
+14,14.1,14.1.1,13,central america,2018,center for ocean-atmospheric prediction studies (coaps),82630.0
+14,14.1,14.1.1,13,central america,2019,center for ocean-atmospheric prediction studies (coaps),87252.0
+14,14.1,14.1.1,13,central america,2020,center for ocean-atmospheric prediction studies (coaps),82643.0
+14,14.1,14.1.1,13,central america,2021,center for ocean-atmospheric prediction studies (coaps),80865.0
+14,14.1,14.1.1,13,central america,2022,center for ocean-atmospheric prediction studies (coaps),81663.0
+14,14.1,14.1.1,62,central and southern asia,2022,center for ocean-atmospheric prediction studies (coaps),748078.0
+14,14.1,14.1.1,152,chile,2017,center for ocean-atmospheric prediction studies (coaps),3726.0
+14,14.1,14.1.1,152,chile,2018,center for ocean-atmospheric prediction studies (coaps),3889.0
+14,14.1,14.1.1,152,chile,2019,center for ocean-atmospheric prediction studies (coaps),3904.0
+14,14.1,14.1.1,152,chile,2020,center for ocean-atmospheric prediction studies (coaps),3832.0
+14,14.1,14.1.1,152,chile,2021,center for ocean-atmospheric prediction studies (coaps),3676.0
+14,14.1,14.1.1,156,china,2017,center for ocean-atmospheric prediction studies (coaps),649214.0
+14,14.1,14.1.1,156,china,2018,center for ocean-atmospheric prediction studies (coaps),576566.0
+14,14.1,14.1.1,156,china,2019,center for ocean-atmospheric prediction studies (coaps),501870.0
+14,14.1,14.1.1,156,china,2020,center for ocean-atmospheric prediction studies (coaps),497435.0
+14,14.1,14.1.1,156,china,2021,center for ocean-atmospheric prediction studies (coaps),726819.0
+14,14.1,14.1.1,344,"china, hong kong special administrative region",2017,center for ocean-atmospheric prediction studies (coaps),5652.0
+14,14.1,14.1.1,344,"china, hong kong special administrative region",2018,center for ocean-atmospheric prediction studies (coaps),6230.0
+14,14.1,14.1.1,344,"china, hong kong special administrative region",2019,center for ocean-atmospheric prediction studies (coaps),4942.0
+14,14.1,14.1.1,344,"china, hong kong special administrative region",2020,center for ocean-atmospheric prediction studies (coaps),5528.0
+14,14.1,14.1.1,344,"china, hong kong special administrative region",2021,center for ocean-atmospheric prediction studies (coaps),5219.0
+14,14.1,14.1.1,170,colombia,2017,center for ocean-atmospheric prediction studies (coaps),6954.0
+14,14.1,14.1.1,170,colombia,2018,center for ocean-atmospheric prediction studies (coaps),5330.0
+14,14.1,14.1.1,170,colombia,2019,center for ocean-atmospheric prediction studies (coaps),5038.0
+14,14.1,14.1.1,170,colombia,2020,center for ocean-atmospheric prediction studies (coaps),8883.0
+14,14.1,14.1.1,170,colombia,2021,center for ocean-atmospheric prediction studies (coaps),7325.0
+14,14.1,14.1.1,174,comoros,2017,center for ocean-atmospheric prediction studies (coaps),13765.0
+14,14.1,14.1.1,174,comoros,2018,center for ocean-atmospheric prediction studies (coaps),15379.0
+14,14.1,14.1.1,174,comoros,2019,center for ocean-atmospheric prediction studies (coaps),15869.0
+14,14.1,14.1.1,174,comoros,2020,center for ocean-atmospheric prediction studies (coaps),17648.0
+14,14.1,14.1.1,174,comoros,2021,center for ocean-atmospheric prediction studies (coaps),17060.0
+14,14.1,14.1.1,178,congo,2017,center for ocean-atmospheric prediction studies (coaps),192.0
+14,14.1,14.1.1,178,congo,2018,center for ocean-atmospheric prediction studies (coaps),106.0
+14,14.1,14.1.1,178,congo,2019,center for ocean-atmospheric prediction studies (coaps),35.0
+14,14.1,14.1.1,178,congo,2020,center for ocean-atmospheric prediction studies (coaps),182.0
+14,14.1,14.1.1,178,congo,2021,center for ocean-atmospheric prediction studies (coaps),149.0
+14,14.1,14.1.1,188,costa rica,2017,center for ocean-atmospheric prediction studies (coaps),1760.0
+14,14.1,14.1.1,188,costa rica,2018,center for ocean-atmospheric prediction studies (coaps),1673.0
+14,14.1,14.1.1,188,costa rica,2019,center for ocean-atmospheric prediction studies (coaps),1849.0
+14,14.1,14.1.1,188,costa rica,2020,center for ocean-atmospheric prediction studies (coaps),1987.0
+14,14.1,14.1.1,188,costa rica,2021,center for ocean-atmospheric prediction studies (coaps),1835.0
+14,14.1,14.1.1,384,côte d'ivoire,2017,center for ocean-atmospheric prediction studies (coaps),14.0
+14,14.1,14.1.1,384,côte d'ivoire,2018,center for ocean-atmospheric prediction studies (coaps),770.0
+14,14.1,14.1.1,384,côte d'ivoire,2019,center for ocean-atmospheric prediction studies (coaps),1008.0
+14,14.1,14.1.1,384,côte d'ivoire,2020,center for ocean-atmospheric prediction studies (coaps),1107.0
+14,14.1,14.1.1,384,côte d'ivoire,2021,center for ocean-atmospheric prediction studies (coaps),945.0
+14,14.1,14.1.1,191,croatia,2017,center for ocean-atmospheric prediction studies (coaps),2554.0
+14,14.1,14.1.1,191,croatia,2018,center for ocean-atmospheric prediction studies (coaps),2290.0
+14,14.1,14.1.1,191,croatia,2019,center for ocean-atmospheric prediction studies (coaps),2529.0
+14,14.1,14.1.1,191,croatia,2020,center for ocean-atmospheric prediction studies (coaps),2521.0
+14,14.1,14.1.1,191,croatia,2021,center for ocean-atmospheric prediction studies (coaps),2819.0
+14,14.1,14.1.1,196,cyprus,2017,center for ocean-atmospheric prediction studies (coaps),37.0
+14,14.1,14.1.1,196,cyprus,2018,center for ocean-atmospheric prediction studies (coaps),45.0
+14,14.1,14.1.1,196,cyprus,2019,center for ocean-atmospheric prediction studies (coaps),56.0
+14,14.1,14.1.1,196,cyprus,2020,center for ocean-atmospheric prediction studies (coaps),42.0
+14,14.1,14.1.1,196,cyprus,2021,center for ocean-atmospheric prediction studies (coaps),45.0
+14,14.1,14.1.1,408,democratic people's republic of korea,2017,center for ocean-atmospheric prediction studies (coaps),9472.0
+14,14.1,14.1.1,408,democratic people's republic of korea,2018,center for ocean-atmospheric prediction studies (coaps),11227.0
+14,14.1,14.1.1,408,democratic people's republic of korea,2019,center for ocean-atmospheric prediction studies (coaps),10906.0
+14,14.1,14.1.1,408,democratic people's republic of korea,2020,center for ocean-atmospheric prediction studies (coaps),10567.0
+14,14.1,14.1.1,408,democratic people's republic of korea,2021,center for ocean-atmospheric prediction studies (coaps),11053.0
+14,14.1,14.1.1,180,democratic republic of the congo,2017,center for ocean-atmospheric prediction studies (coaps),7.0
+14,14.1,14.1.1,180,democratic republic of the congo,2018,center for ocean-atmospheric prediction studies (coaps),10.0
+14,14.1,14.1.1,180,democratic republic of the congo,2019,center for ocean-atmospheric prediction studies (coaps),8.0
+14,14.1,14.1.1,180,democratic republic of the congo,2020,center for ocean-atmospheric prediction studies (coaps),7.0
+14,14.1,14.1.1,180,democratic republic of the congo,2021,center for ocean-atmospheric prediction studies (coaps),4.0
+14,14.1,14.1.1,208,denmark,2017,center for ocean-atmospheric prediction studies (coaps),15.0
+14,14.1,14.1.1,208,denmark,2018,center for ocean-atmospheric prediction studies (coaps),41.0
+14,14.1,14.1.1,208,denmark,2019,center for ocean-atmospheric prediction studies (coaps),43.0
+14,14.1,14.1.1,208,denmark,2020,center for ocean-atmospheric prediction studies (coaps),29.0
+14,14.1,14.1.1,208,denmark,2021,center for ocean-atmospheric prediction studies (coaps),37.0
+14,14.1,14.1.1,262,djibouti,2017,center for ocean-atmospheric prediction studies (coaps),742.0
+14,14.1,14.1.1,262,djibouti,2018,center for ocean-atmospheric prediction studies (coaps),632.0
+14,14.1,14.1.1,262,djibouti,2019,center for ocean-atmospheric prediction studies (coaps),467.0
+14,14.1,14.1.1,262,djibouti,2020,center for ocean-atmospheric prediction studies (coaps),896.0
+14,14.1,14.1.1,262,djibouti,2021,center for ocean-atmospheric prediction studies (coaps),714.0
+14,14.1,14.1.1,212,dominica,2017,center for ocean-atmospheric prediction studies (coaps),317.0
+14,14.1,14.1.1,212,dominica,2018,center for ocean-atmospheric prediction studies (coaps),316.0
+14,14.1,14.1.1,212,dominica,2019,center for ocean-atmospheric prediction studies (coaps),303.0
+14,14.1,14.1.1,212,dominica,2020,center for ocean-atmospheric prediction studies (coaps),353.0
+14,14.1,14.1.1,212,dominica,2021,center for ocean-atmospheric prediction studies (coaps),364.0
+14,14.1,14.1.1,214,dominican republic,2017,center for ocean-atmospheric prediction studies (coaps),40927.0
+14,14.1,14.1.1,214,dominican republic,2018,center for ocean-atmospheric prediction studies (coaps),42248.0
+14,14.1,14.1.1,214,dominican republic,2019,center for ocean-atmospheric prediction studies (coaps),43360.0
+14,14.1,14.1.1,214,dominican republic,2020,center for ocean-atmospheric prediction studies (coaps),53214.0
+14,14.1,14.1.1,214,dominican republic,2021,center for ocean-atmospheric prediction studies (coaps),55594.0
+14,14.1,14.1.1,14,eastern africa,2022,center for ocean-atmospheric prediction studies (coaps),159286.0
+14,14.1,14.1.1,753,eastern and south-eastern asia,2017,center for ocean-atmospheric prediction studies (coaps),2663752.0
+14,14.1,14.1.1,753,eastern and south-eastern asia,2018,center for ocean-atmospheric prediction studies (coaps),2518638.0
+14,14.1,14.1.1,753,eastern and south-eastern asia,2019,center for ocean-atmospheric prediction studies (coaps),2404785.0
+14,14.1,14.1.1,753,eastern and south-eastern asia,2020,center for ocean-atmospheric prediction studies (coaps),2613940.0
+14,14.1,14.1.1,753,eastern and south-eastern asia,2021,center for ocean-atmospheric prediction studies (coaps),2990925.0
+14,14.1,14.1.1,753,eastern and south-eastern asia,2022,center for ocean-atmospheric prediction studies (coaps),2949685.0
+14,14.1,14.1.1,30,eastern asia,2017,center for ocean-atmospheric prediction studies (coaps),680866.0
+14,14.1,14.1.1,30,eastern asia,2018,center for ocean-atmospheric prediction studies (coaps),612011.0
+14,14.1,14.1.1,30,eastern asia,2019,center for ocean-atmospheric prediction studies (coaps),535971.0
+14,14.1,14.1.1,30,eastern asia,2020,center for ocean-atmospheric prediction studies (coaps),532260.0
+14,14.1,14.1.1,30,eastern asia,2021,center for ocean-atmospheric prediction studies (coaps),762329.0
+14,14.1,14.1.1,30,eastern asia,2022,center for ocean-atmospheric prediction studies (coaps),618258.0
+14,14.1,14.1.1,151,eastern europe,2017,center for ocean-atmospheric prediction studies (coaps),28062.0
+14,14.1,14.1.1,151,eastern europe,2018,center for ocean-atmospheric prediction studies (coaps),23635.0
+14,14.1,14.1.1,151,eastern europe,2019,center for ocean-atmospheric prediction studies (coaps),27640.0
+14,14.1,14.1.1,151,eastern europe,2020,center for ocean-atmospheric prediction studies (coaps),25458.0
+14,14.1,14.1.1,151,eastern europe,2021,center for ocean-atmospheric prediction studies (coaps),30171.0
+14,14.1,14.1.1,151,eastern europe,2022,center for ocean-atmospheric prediction studies (coaps),31172.0
+14,14.1,14.1.1,218,ecuador,2017,center for ocean-atmospheric prediction studies (coaps),198.0
+14,14.1,14.1.1,218,ecuador,2018,center for ocean-atmospheric prediction studies (coaps),267.0
+14,14.1,14.1.1,218,ecuador,2019,center for ocean-atmospheric prediction studies (coaps),357.0
+14,14.1,14.1.1,218,ecuador,2020,center for ocean-atmospheric prediction studies (coaps),150.0
+14,14.1,14.1.1,218,ecuador,2021,center for ocean-atmospheric prediction studies (coaps),49.0
+14,14.1,14.1.1,818,egypt,2017,center for ocean-atmospheric prediction studies (coaps),17502.0
+14,14.1,14.1.1,818,egypt,2018,center for ocean-atmospheric prediction studies (coaps),41101.0
+14,14.1,14.1.1,818,egypt,2019,center for ocean-atmospheric prediction studies (coaps),51536.0
+14,14.1,14.1.1,818,egypt,2020,center for ocean-atmospheric prediction studies (coaps),41062.0
+14,14.1,14.1.1,818,egypt,2021,center for ocean-atmospheric prediction studies (coaps),41213.0
+14,14.1,14.1.1,222,el salvador,2017,center for ocean-atmospheric prediction studies (coaps),9905.0
+14,14.1,14.1.1,222,el salvador,2018,center for ocean-atmospheric prediction studies (coaps),10857.0
+14,14.1,14.1.1,222,el salvador,2019,center for ocean-atmospheric prediction studies (coaps),11391.0
+14,14.1,14.1.1,222,el salvador,2020,center for ocean-atmospheric prediction studies (coaps),10288.0
+14,14.1,14.1.1,222,el salvador,2021,center for ocean-atmospheric prediction studies (coaps),10105.0
+14,14.1,14.1.1,226,equatorial guinea,2017,center for ocean-atmospheric prediction studies (coaps),75.0
+14,14.1,14.1.1,226,equatorial guinea,2018,center for ocean-atmospheric prediction studies (coaps),78.0
+14,14.1,14.1.1,226,equatorial guinea,2019,center for ocean-atmospheric prediction studies (coaps),68.0
+14,14.1,14.1.1,226,equatorial guinea,2020,center for ocean-atmospheric prediction studies (coaps),82.0
+14,14.1,14.1.1,226,equatorial guinea,2021,center for ocean-atmospheric prediction studies (coaps),196.0
+14,14.1,14.1.1,232,eritrea,2017,center for ocean-atmospheric prediction studies (coaps),612.0
+14,14.1,14.1.1,232,eritrea,2018,center for ocean-atmospheric prediction studies (coaps),797.0
+14,14.1,14.1.1,232,eritrea,2019,center for ocean-atmospheric prediction studies (coaps),242.0
+14,14.1,14.1.1,232,eritrea,2020,center for ocean-atmospheric prediction studies (coaps),854.0
+14,14.1,14.1.1,232,eritrea,2021,center for ocean-atmospheric prediction studies (coaps),305.0
+14,14.1,14.1.1,233,estonia,2017,center for ocean-atmospheric prediction studies (coaps),7.0
+14,14.1,14.1.1,233,estonia,2018,center for ocean-atmospheric prediction studies (coaps),7.0
+14,14.1,14.1.1,233,estonia,2019,center for ocean-atmospheric prediction studies (coaps),20.0
+14,14.1,14.1.1,233,estonia,2020,center for ocean-atmospheric prediction studies (coaps),3.0
+14,14.1,14.1.1,233,estonia,2021,center for ocean-atmospheric prediction studies (coaps),26.0
+14,14.1,14.1.1,150,europe,2017,center for ocean-atmospheric prediction studies (coaps),59288.0
+14,14.1,14.1.1,150,europe,2018,center for ocean-atmospheric prediction studies (coaps),59693.0
+14,14.1,14.1.1,150,europe,2019,center for ocean-atmospheric prediction studies (coaps),66825.0
+14,14.1,14.1.1,150,europe,2020,center for ocean-atmospheric prediction studies (coaps),59937.0
+14,14.1,14.1.1,150,europe,2021,center for ocean-atmospheric prediction studies (coaps),67545.0
+14,14.1,14.1.1,150,europe,2022,center for ocean-atmospheric prediction studies (coaps),66945.0
+14,14.1,14.1.1,513,europe and northern america,2017,center for ocean-atmospheric prediction studies (coaps),93926.0
+14,14.1,14.1.1,513,europe and northern america,2018,center for ocean-atmospheric prediction studies (coaps),95790.0
+14,14.1,14.1.1,513,europe and northern america,2019,center for ocean-atmospheric prediction studies (coaps),104366.0
+14,14.1,14.1.1,513,europe and northern america,2020,center for ocean-atmospheric prediction studies (coaps),98815.0
+14,14.1,14.1.1,513,europe and northern america,2021,center for ocean-atmospheric prediction studies (coaps),107042.0
+14,14.1,14.1.1,513,europe and northern america,2022,center for ocean-atmospheric prediction studies (coaps),108602.0
+14,14.1,14.1.1,242,fiji,2017,center for ocean-atmospheric prediction studies (coaps),766.0
+14,14.1,14.1.1,242,fiji,2018,center for ocean-atmospheric prediction studies (coaps),969.0
+14,14.1,14.1.1,242,fiji,2019,center for ocean-atmospheric prediction studies (coaps),723.0
+14,14.1,14.1.1,242,fiji,2020,center for ocean-atmospheric prediction studies (coaps),758.0
+14,14.1,14.1.1,242,fiji,2021,center for ocean-atmospheric prediction studies (coaps),968.0
+14,14.1,14.1.1,246,finland,2017,center for ocean-atmospheric prediction studies (coaps),23.0
+14,14.1,14.1.1,246,finland,2018,center for ocean-atmospheric prediction studies (coaps),38.0
+14,14.1,14.1.1,246,finland,2019,center for ocean-atmospheric prediction studies (coaps),40.0
+14,14.1,14.1.1,246,finland,2020,center for ocean-atmospheric prediction studies (coaps),13.0
+14,14.1,14.1.1,246,finland,2021,center for ocean-atmospheric prediction studies (coaps),85.0
+14,14.1,14.1.1,250,france,2017,center for ocean-atmospheric prediction studies (coaps),405.0
+14,14.1,14.1.1,250,france,2018,center for ocean-atmospheric prediction studies (coaps),507.0
+14,14.1,14.1.1,250,france,2019,center for ocean-atmospheric prediction studies (coaps),564.0
+14,14.1,14.1.1,250,france,2020,center for ocean-atmospheric prediction studies (coaps),459.0
+14,14.1,14.1.1,250,france,2021,center for ocean-atmospheric prediction studies (coaps),498.0
+14,14.1,14.1.1,254,french guiana,2017,center for ocean-atmospheric prediction studies (coaps),13.0
+14,14.1,14.1.1,254,french guiana,2018,center for ocean-atmospheric prediction studies (coaps),13.0
+14,14.1,14.1.1,254,french guiana,2019,center for ocean-atmospheric prediction studies (coaps),13.0
+14,14.1,14.1.1,254,french guiana,2020,center for ocean-atmospheric prediction studies (coaps),22.0
+14,14.1,14.1.1,254,french guiana,2021,center for ocean-atmospheric prediction studies (coaps),20.0
+14,14.1,14.1.1,266,gabon,2017,center for ocean-atmospheric prediction studies (coaps),12.0
+14,14.1,14.1.1,266,gabon,2018,center for ocean-atmospheric prediction studies (coaps),9.0
+14,14.1,14.1.1,266,gabon,2019,center for ocean-atmospheric prediction studies (coaps),10.0
+14,14.1,14.1.1,266,gabon,2020,center for ocean-atmospheric prediction studies (coaps),14.0
+14,14.1,14.1.1,266,gabon,2021,center for ocean-atmospheric prediction studies (coaps),17.0
+14,14.1,14.1.1,270,gambia,2017,center for ocean-atmospheric prediction studies (coaps),3857.0
+14,14.1,14.1.1,270,gambia,2018,center for ocean-atmospheric prediction studies (coaps),3224.0
+14,14.1,14.1.1,270,gambia,2019,center for ocean-atmospheric prediction studies (coaps),2985.0
+14,14.1,14.1.1,270,gambia,2020,center for ocean-atmospheric prediction studies (coaps),2712.0
+14,14.1,14.1.1,270,gambia,2021,center for ocean-atmospheric prediction studies (coaps),1982.0
+14,14.1,14.1.1,268,georgia,2017,center for ocean-atmospheric prediction studies (coaps),487.0
+14,14.1,14.1.1,268,georgia,2018,center for ocean-atmospheric prediction studies (coaps),415.0
+14,14.1,14.1.1,268,georgia,2019,center for ocean-atmospheric prediction studies (coaps),445.0
+14,14.1,14.1.1,268,georgia,2020,center for ocean-atmospheric prediction studies (coaps),429.0
+14,14.1,14.1.1,268,georgia,2021,center for ocean-atmospheric prediction studies (coaps),474.0
+14,14.1,14.1.1,276,germany,2017,center for ocean-atmospheric prediction studies (coaps),212.0
+14,14.1,14.1.1,276,germany,2018,center for ocean-atmospheric prediction studies (coaps),543.0
+14,14.1,14.1.1,276,germany,2019,center for ocean-atmospheric prediction studies (coaps),420.0
+14,14.1,14.1.1,276,germany,2020,center for ocean-atmospheric prediction studies (coaps),312.0
+14,14.1,14.1.1,276,germany,2021,center for ocean-atmospheric prediction studies (coaps),356.0
+14,14.1,14.1.1,288,ghana,2017,center for ocean-atmospheric prediction studies (coaps),1607.0
+14,14.1,14.1.1,288,ghana,2018,center for ocean-atmospheric prediction studies (coaps),2131.0
+14,14.1,14.1.1,288,ghana,2019,center for ocean-atmospheric prediction studies (coaps),1112.0
+14,14.1,14.1.1,288,ghana,2020,center for ocean-atmospheric prediction studies (coaps),2814.0
+14,14.1,14.1.1,288,ghana,2021,center for ocean-atmospheric prediction studies (coaps),312.0
+14,14.1,14.1.1,292,gibraltar,2017,center for ocean-atmospheric prediction studies (coaps),20.0
+14,14.1,14.1.1,292,gibraltar,2018,center for ocean-atmospheric prediction studies (coaps),25.0
+14,14.1,14.1.1,292,gibraltar,2019,center for ocean-atmospheric prediction studies (coaps),22.0
+14,14.1,14.1.1,292,gibraltar,2020,center for ocean-atmospheric prediction studies (coaps),25.0
+14,14.1,14.1.1,292,gibraltar,2021,center for ocean-atmospheric prediction studies (coaps),17.0
+14,14.1,14.1.1,300,greece,2017,center for ocean-atmospheric prediction studies (coaps),6053.0
+14,14.1,14.1.1,300,greece,2018,center for ocean-atmospheric prediction studies (coaps),7512.0
+14,14.1,14.1.1,300,greece,2019,center for ocean-atmospheric prediction studies (coaps),9794.0
+14,14.1,14.1.1,300,greece,2020,center for ocean-atmospheric prediction studies (coaps),7634.0
+14,14.1,14.1.1,300,greece,2021,center for ocean-atmospheric prediction studies (coaps),8266.0
+14,14.1,14.1.1,308,grenada,2017,center for ocean-atmospheric prediction studies (coaps),311.0
+14,14.1,14.1.1,308,grenada,2018,center for ocean-atmospheric prediction studies (coaps),348.0
+14,14.1,14.1.1,308,grenada,2019,center for ocean-atmospheric prediction studies (coaps),362.0
+14,14.1,14.1.1,308,grenada,2020,center for ocean-atmospheric prediction studies (coaps),375.0
+14,14.1,14.1.1,308,grenada,2021,center for ocean-atmospheric prediction studies (coaps),366.0
+14,14.1,14.1.1,312,guadeloupe,2017,center for ocean-atmospheric prediction studies (coaps),18.0
+14,14.1,14.1.1,312,guadeloupe,2018,center for ocean-atmospheric prediction studies (coaps),18.0
+14,14.1,14.1.1,312,guadeloupe,2019,center for ocean-atmospheric prediction studies (coaps),18.0
+14,14.1,14.1.1,312,guadeloupe,2020,center for ocean-atmospheric prediction studies (coaps),23.0
+14,14.1,14.1.1,312,guadeloupe,2021,center for ocean-atmospheric prediction studies (coaps),26.0
+14,14.1,14.1.1,320,guatemala,2017,center for ocean-atmospheric prediction studies (coaps),15741.0
+14,14.1,14.1.1,320,guatemala,2018,center for ocean-atmospheric prediction studies (coaps),17934.0
+14,14.1,14.1.1,320,guatemala,2019,center for ocean-atmospheric prediction studies (coaps),20933.0
+14,14.1,14.1.1,320,guatemala,2020,center for ocean-atmospheric prediction studies (coaps),20233.0
+14,14.1,14.1.1,320,guatemala,2021,center for ocean-atmospheric prediction studies (coaps),19962.0
+14,14.1,14.1.1,324,guinea,2017,center for ocean-atmospheric prediction studies (coaps),77.0
+14,14.1,14.1.1,324,guinea,2018,center for ocean-atmospheric prediction studies (coaps),57.0
+14,14.1,14.1.1,324,guinea,2019,center for ocean-atmospheric prediction studies (coaps),173.0
+14,14.1,14.1.1,324,guinea,2020,center for ocean-atmospheric prediction studies (coaps),39.0
+14,14.1,14.1.1,324,guinea,2021,center for ocean-atmospheric prediction studies (coaps),32.0
+14,14.1,14.1.1,624,guinea-bissau,2017,center for ocean-atmospheric prediction studies (coaps),1172.0
+14,14.1,14.1.1,624,guinea-bissau,2018,center for ocean-atmospheric prediction studies (coaps),532.0
+14,14.1,14.1.1,624,guinea-bissau,2019,center for ocean-atmospheric prediction studies (coaps),634.0
+14,14.1,14.1.1,624,guinea-bissau,2020,center for ocean-atmospheric prediction studies (coaps),478.0
+14,14.1,14.1.1,624,guinea-bissau,2021,center for ocean-atmospheric prediction studies (coaps),211.0
+14,14.1,14.1.1,328,guyana,2017,center for ocean-atmospheric prediction studies (coaps),1723.0
+14,14.1,14.1.1,328,guyana,2018,center for ocean-atmospheric prediction studies (coaps),1050.0
+14,14.1,14.1.1,328,guyana,2019,center for ocean-atmospheric prediction studies (coaps),1826.0
+14,14.1,14.1.1,328,guyana,2020,center for ocean-atmospheric prediction studies (coaps),3561.0
+14,14.1,14.1.1,328,guyana,2021,center for ocean-atmospheric prediction studies (coaps),3050.0
+14,14.1,14.1.1,332,haiti,2017,center for ocean-atmospheric prediction studies (coaps),52423.0
+14,14.1,14.1.1,332,haiti,2018,center for ocean-atmospheric prediction studies (coaps),55041.0
+14,14.1,14.1.1,332,haiti,2019,center for ocean-atmospheric prediction studies (coaps),52496.0
+14,14.1,14.1.1,332,haiti,2020,center for ocean-atmospheric prediction studies (coaps),58590.0
+14,14.1,14.1.1,332,haiti,2021,center for ocean-atmospheric prediction studies (coaps),58845.0
+14,14.1,14.1.1,340,honduras,2017,center for ocean-atmospheric prediction studies (coaps),886.0
+14,14.1,14.1.1,340,honduras,2018,center for ocean-atmospheric prediction studies (coaps),1635.0
+14,14.1,14.1.1,340,honduras,2019,center for ocean-atmospheric prediction studies (coaps),1411.0
+14,14.1,14.1.1,340,honduras,2020,center for ocean-atmospheric prediction studies (coaps),597.0
+14,14.1,14.1.1,340,honduras,2021,center for ocean-atmospheric prediction studies (coaps),1411.0
+14,14.1,14.1.1,352,iceland,2017,center for ocean-atmospheric prediction studies (coaps),27.0
+14,14.1,14.1.1,352,iceland,2018,center for ocean-atmospheric prediction studies (coaps),24.0
+14,14.1,14.1.1,352,iceland,2019,center for ocean-atmospheric prediction studies (coaps),24.0
+14,14.1,14.1.1,352,iceland,2020,center for ocean-atmospheric prediction studies (coaps),21.0
+14,14.1,14.1.1,352,iceland,2021,center for ocean-atmospheric prediction studies (coaps),24.0
+14,14.1,14.1.1,356,india,2017,center for ocean-atmospheric prediction studies (coaps),543137.0
+14,14.1,14.1.1,356,india,2018,center for ocean-atmospheric prediction studies (coaps),540554.0
+14,14.1,14.1.1,356,india,2019,center for ocean-atmospheric prediction studies (coaps),555142.0
+14,14.1,14.1.1,356,india,2020,center for ocean-atmospheric prediction studies (coaps),573567.0
+14,14.1,14.1.1,356,india,2021,center for ocean-atmospheric prediction studies (coaps),543740.0
+14,14.1,14.1.1,360,indonesia,2017,center for ocean-atmospheric prediction studies (coaps),342552.0
+14,14.1,14.1.1,360,indonesia,2018,center for ocean-atmospheric prediction studies (coaps),334591.0
+14,14.1,14.1.1,360,indonesia,2019,center for ocean-atmospheric prediction studies (coaps),327188.0
+14,14.1,14.1.1,360,indonesia,2020,center for ocean-atmospheric prediction studies (coaps),437643.0
+14,14.1,14.1.1,360,indonesia,2021,center for ocean-atmospheric prediction studies (coaps),438617.0
+14,14.1,14.1.1,364,iran (islamic republic of),2017,center for ocean-atmospheric prediction studies (coaps),1224.0
+14,14.1,14.1.1,364,iran (islamic republic of),2018,center for ocean-atmospheric prediction studies (coaps),1228.0
+14,14.1,14.1.1,364,iran (islamic republic of),2019,center for ocean-atmospheric prediction studies (coaps),1174.0
+14,14.1,14.1.1,364,iran (islamic republic of),2020,center for ocean-atmospheric prediction studies (coaps),1086.0
+14,14.1,14.1.1,364,iran (islamic republic of),2021,center for ocean-atmospheric prediction studies (coaps),1267.0
+14,14.1,14.1.1,372,ireland,2017,center for ocean-atmospheric prediction studies (coaps),50.0
+14,14.1,14.1.1,372,ireland,2018,center for ocean-atmospheric prediction studies (coaps),70.0
+14,14.1,14.1.1,372,ireland,2019,center for ocean-atmospheric prediction studies (coaps),135.0
+14,14.1,14.1.1,372,ireland,2020,center for ocean-atmospheric prediction studies (coaps),105.0
+14,14.1,14.1.1,372,ireland,2021,center for ocean-atmospheric prediction studies (coaps),170.0
+14,14.1,14.1.1,376,israel,2017,center for ocean-atmospheric prediction studies (coaps),546.0
+14,14.1,14.1.1,376,israel,2018,center for ocean-atmospheric prediction studies (coaps),836.0
+14,14.1,14.1.1,376,israel,2019,center for ocean-atmospheric prediction studies (coaps),843.0
+14,14.1,14.1.1,376,israel,2020,center for ocean-atmospheric prediction studies (coaps),742.0
+14,14.1,14.1.1,376,israel,2021,center for ocean-atmospheric prediction studies (coaps),777.0
+14,14.1,14.1.1,380,italy,2017,center for ocean-atmospheric prediction studies (coaps),2973.0
+14,14.1,14.1.1,380,italy,2018,center for ocean-atmospheric prediction studies (coaps),3495.0
+14,14.1,14.1.1,380,italy,2019,center for ocean-atmospheric prediction studies (coaps),3520.0
+14,14.1,14.1.1,380,italy,2020,center for ocean-atmospheric prediction studies (coaps),2907.0
+14,14.1,14.1.1,380,italy,2021,center for ocean-atmospheric prediction studies (coaps),3175.0
+14,14.1,14.1.1,388,jamaica,2017,center for ocean-atmospheric prediction studies (coaps),14558.0
+14,14.1,14.1.1,388,jamaica,2018,center for ocean-atmospheric prediction studies (coaps),15683.0
+14,14.1,14.1.1,388,jamaica,2019,center for ocean-atmospheric prediction studies (coaps),15821.0
+14,14.1,14.1.1,388,jamaica,2020,center for ocean-atmospheric prediction studies (coaps),16511.0
+14,14.1,14.1.1,388,jamaica,2021,center for ocean-atmospheric prediction studies (coaps),16747.0
+14,14.1,14.1.1,392,japan,2017,center for ocean-atmospheric prediction studies (coaps),13342.0
+14,14.1,14.1.1,392,japan,2018,center for ocean-atmospheric prediction studies (coaps),14157.0
+14,14.1,14.1.1,392,japan,2019,center for ocean-atmospheric prediction studies (coaps),14697.0
+14,14.1,14.1.1,392,japan,2020,center for ocean-atmospheric prediction studies (coaps),15330.0
+14,14.1,14.1.1,392,japan,2021,center for ocean-atmospheric prediction studies (coaps),15894.0
+14,14.1,14.1.1,404,kenya,2017,center for ocean-atmospheric prediction studies (coaps),6727.0
+14,14.1,14.1.1,404,kenya,2018,center for ocean-atmospheric prediction studies (coaps),6968.0
+14,14.1,14.1.1,404,kenya,2019,center for ocean-atmospheric prediction studies (coaps),7223.0
+14,14.1,14.1.1,404,kenya,2020,center for ocean-atmospheric prediction studies (coaps),8185.0
+14,14.1,14.1.1,404,kenya,2021,center for ocean-atmospheric prediction studies (coaps),7888.0
+14,14.1,14.1.1,296,kiribati,2017,center for ocean-atmospheric prediction studies (coaps),18.0
+14,14.1,14.1.1,296,kiribati,2018,center for ocean-atmospheric prediction studies (coaps),20.0
+14,14.1,14.1.1,296,kiribati,2019,center for ocean-atmospheric prediction studies (coaps),21.0
+14,14.1,14.1.1,296,kiribati,2020,center for ocean-atmospheric prediction studies (coaps),22.0
+14,14.1,14.1.1,296,kiribati,2021,center for ocean-atmospheric prediction studies (coaps),21.0
+14,14.1,14.1.1,414,kuwait,2017,center for ocean-atmospheric prediction studies (coaps),1293.0
+14,14.1,14.1.1,414,kuwait,2018,center for ocean-atmospheric prediction studies (coaps),1107.0
+14,14.1,14.1.1,414,kuwait,2019,center for ocean-atmospheric prediction studies (coaps),1346.0
+14,14.1,14.1.1,414,kuwait,2020,center for ocean-atmospheric prediction studies (coaps),1402.0
+14,14.1,14.1.1,414,kuwait,2021,center for ocean-atmospheric prediction studies (coaps),1669.0
+14,14.1,14.1.1,419,latin america and the caribbean,2017,center for ocean-atmospheric prediction studies (coaps),624209.0
+14,14.1,14.1.1,419,latin america and the caribbean,2018,center for ocean-atmospheric prediction studies (coaps),652075.0
+14,14.1,14.1.1,419,latin america and the caribbean,2019,center for ocean-atmospheric prediction studies (coaps),649812.0
+14,14.1,14.1.1,419,latin america and the caribbean,2020,center for ocean-atmospheric prediction studies (coaps),699063.0
+14,14.1,14.1.1,419,latin america and the caribbean,2021,center for ocean-atmospheric prediction studies (coaps),711359.0
+14,14.1,14.1.1,419,latin america and the caribbean,2022,center for ocean-atmospheric prediction studies (coaps),751656.0
+14,14.1,14.1.1,428,latvia,2017,center for ocean-atmospheric prediction studies (coaps),1.0
+14,14.1,14.1.1,428,latvia,2018,center for ocean-atmospheric prediction studies (coaps),23.0
+14,14.1,14.1.1,428,latvia,2019,center for ocean-atmospheric prediction studies (coaps),2.0
+14,14.1,14.1.1,428,latvia,2020,center for ocean-atmospheric prediction studies (coaps),6.0
+14,14.1,14.1.1,428,latvia,2021,center for ocean-atmospheric prediction studies (coaps),25.0
+14,14.1,14.1.1,199,least developed countries (ldcs),2017,center for ocean-atmospheric prediction studies (coaps),459276.0
+14,14.1,14.1.1,199,least developed countries (ldcs),2018,center for ocean-atmospheric prediction studies (coaps),482636.0
+14,14.1,14.1.1,199,least developed countries (ldcs),2019,center for ocean-atmospheric prediction studies (coaps),483963.0
+14,14.1,14.1.1,199,least developed countries (ldcs),2020,center for ocean-atmospheric prediction studies (coaps),509601.0
+14,14.1,14.1.1,199,least developed countries (ldcs),2021,center for ocean-atmospheric prediction studies (coaps),479169.0
+14,14.1,14.1.1,199,least developed countries (ldcs),2022,center for ocean-atmospheric prediction studies (coaps),482999.0
+14,14.1,14.1.1,422,lebanon,2017,center for ocean-atmospheric prediction studies (coaps),5635.0
+14,14.1,14.1.1,422,lebanon,2018,center for ocean-atmospheric prediction studies (coaps),7542.0
+14,14.1,14.1.1,422,lebanon,2019,center for ocean-atmospheric prediction studies (coaps),8142.0
+14,14.1,14.1.1,422,lebanon,2020,center for ocean-atmospheric prediction studies (coaps),6918.0
+14,14.1,14.1.1,422,lebanon,2021,center for ocean-atmospheric prediction studies (coaps),7013.0
+14,14.1,14.1.1,430,liberia,2017,center for ocean-atmospheric prediction studies (coaps),41.0
+14,14.1,14.1.1,430,liberia,2018,center for ocean-atmospheric prediction studies (coaps),168.0
+14,14.1,14.1.1,430,liberia,2019,center for ocean-atmospheric prediction studies (coaps),131.0
+14,14.1,14.1.1,430,liberia,2020,center for ocean-atmospheric prediction studies (coaps),23.0
+14,14.1,14.1.1,430,liberia,2021,center for ocean-atmospheric prediction studies (coaps),58.0
+14,14.1,14.1.1,434,libya,2017,center for ocean-atmospheric prediction studies (coaps),19733.0
+14,14.1,14.1.1,434,libya,2018,center for ocean-atmospheric prediction studies (coaps),25684.0
+14,14.1,14.1.1,434,libya,2019,center for ocean-atmospheric prediction studies (coaps),28309.0
+14,14.1,14.1.1,434,libya,2020,center for ocean-atmospheric prediction studies (coaps),22757.0
+14,14.1,14.1.1,434,libya,2021,center for ocean-atmospheric prediction studies (coaps),26865.0
+14,14.1,14.1.1,440,lithuania,2017,center for ocean-atmospheric prediction studies (coaps),1.0
+14,14.1,14.1.1,440,lithuania,2018,center for ocean-atmospheric prediction studies (coaps),14.0
+14,14.1,14.1.1,440,lithuania,2019,center for ocean-atmospheric prediction studies (coaps),5.0
+14,14.1,14.1.1,440,lithuania,2020,center for ocean-atmospheric prediction studies (coaps),7.0
+14,14.1,14.1.1,440,lithuania,2021,center for ocean-atmospheric prediction studies (coaps),11.0
+14,14.1,14.1.1,450,madagascar,2017,center for ocean-atmospheric prediction studies (coaps),1565.0
+14,14.1,14.1.1,450,madagascar,2018,center for ocean-atmospheric prediction studies (coaps),1611.0
+14,14.1,14.1.1,450,madagascar,2019,center for ocean-atmospheric prediction studies (coaps),1721.0
+14,14.1,14.1.1,450,madagascar,2020,center for ocean-atmospheric prediction studies (coaps),1714.0
+14,14.1,14.1.1,450,madagascar,2021,center for ocean-atmospheric prediction studies (coaps),1760.0
+14,14.1,14.1.1,458,malaysia,2017,center for ocean-atmospheric prediction studies (coaps),209217.0
+14,14.1,14.1.1,458,malaysia,2018,center for ocean-atmospheric prediction studies (coaps),205600.0
+14,14.1,14.1.1,458,malaysia,2019,center for ocean-atmospheric prediction studies (coaps),213562.0
+14,14.1,14.1.1,458,malaysia,2020,center for ocean-atmospheric prediction studies (coaps),232841.0
+14,14.1,14.1.1,458,malaysia,2021,center for ocean-atmospheric prediction studies (coaps),234941.0
+14,14.1,14.1.1,462,maldives,2017,center for ocean-atmospheric prediction studies (coaps),100.0
+14,14.1,14.1.1,462,maldives,2018,center for ocean-atmospheric prediction studies (coaps),103.0
+14,14.1,14.1.1,462,maldives,2019,center for ocean-atmospheric prediction studies (coaps),117.0
+14,14.1,14.1.1,462,maldives,2020,center for ocean-atmospheric prediction studies (coaps),130.0
+14,14.1,14.1.1,462,maldives,2021,center for ocean-atmospheric prediction studies (coaps),115.0
+14,14.1,14.1.1,470,malta,2017,center for ocean-atmospheric prediction studies (coaps),43.0
+14,14.1,14.1.1,470,malta,2018,center for ocean-atmospheric prediction studies (coaps),57.0
+14,14.1,14.1.1,470,malta,2019,center for ocean-atmospheric prediction studies (coaps),45.0
+14,14.1,14.1.1,470,malta,2020,center for ocean-atmospheric prediction studies (coaps),46.0
+14,14.1,14.1.1,470,malta,2021,center for ocean-atmospheric prediction studies (coaps),54.0
+14,14.1,14.1.1,474,martinique,2017,center for ocean-atmospheric prediction studies (coaps),18.0
+14,14.1,14.1.1,474,martinique,2018,center for ocean-atmospheric prediction studies (coaps),18.0
+14,14.1,14.1.1,474,martinique,2019,center for ocean-atmospheric prediction studies (coaps),21.0
+14,14.1,14.1.1,474,martinique,2020,center for ocean-atmospheric prediction studies (coaps),25.0
+14,14.1,14.1.1,474,martinique,2021,center for ocean-atmospheric prediction studies (coaps),25.0
+14,14.1,14.1.1,478,mauritania,2017,center for ocean-atmospheric prediction studies (coaps),1293.0
+14,14.1,14.1.1,478,mauritania,2018,center for ocean-atmospheric prediction studies (coaps),1266.0
+14,14.1,14.1.1,478,mauritania,2019,center for ocean-atmospheric prediction studies (coaps),1234.0
+14,14.1,14.1.1,478,mauritania,2020,center for ocean-atmospheric prediction studies (coaps),1318.0
+14,14.1,14.1.1,478,mauritania,2021,center for ocean-atmospheric prediction studies (coaps),1286.0
+14,14.1,14.1.1,480,mauritius,2017,center for ocean-atmospheric prediction studies (coaps),93.0
+14,14.1,14.1.1,480,mauritius,2018,center for ocean-atmospheric prediction studies (coaps),101.0
+14,14.1,14.1.1,480,mauritius,2019,center for ocean-atmospheric prediction studies (coaps),102.0
+14,14.1,14.1.1,480,mauritius,2020,center for ocean-atmospheric prediction studies (coaps),101.0
+14,14.1,14.1.1,480,mauritius,2021,center for ocean-atmospheric prediction studies (coaps),106.0
+14,14.1,14.1.1,54,melanesia,2017,center for ocean-atmospheric prediction studies (coaps),22927.0
+14,14.1,14.1.1,54,melanesia,2018,center for ocean-atmospheric prediction studies (coaps),24387.0
+14,14.1,14.1.1,54,melanesia,2019,center for ocean-atmospheric prediction studies (coaps),20799.0
+14,14.1,14.1.1,54,melanesia,2020,center for ocean-atmospheric prediction studies (coaps),20800.0
+14,14.1,14.1.1,54,melanesia,2021,center for ocean-atmospheric prediction studies (coaps),21796.0
+14,14.1,14.1.1,54,melanesia,2022,center for ocean-atmospheric prediction studies (coaps),20757.0
+14,14.1,14.1.1,484,mexico,2017,center for ocean-atmospheric prediction studies (coaps),19131.0
+14,14.1,14.1.1,484,mexico,2018,center for ocean-atmospheric prediction studies (coaps),21051.0
+14,14.1,14.1.1,484,mexico,2019,center for ocean-atmospheric prediction studies (coaps),21211.0
+14,14.1,14.1.1,484,mexico,2020,center for ocean-atmospheric prediction studies (coaps),20162.0
+14,14.1,14.1.1,484,mexico,2021,center for ocean-atmospheric prediction studies (coaps),19538.0
+14,14.1,14.1.1,57,micronesia,2017,center for ocean-atmospheric prediction studies (coaps),219.0
+14,14.1,14.1.1,57,micronesia,2018,center for ocean-atmospheric prediction studies (coaps),220.0
+14,14.1,14.1.1,57,micronesia,2019,center for ocean-atmospheric prediction studies (coaps),231.0
+14,14.1,14.1.1,57,micronesia,2020,center for ocean-atmospheric prediction studies (coaps),219.0
+14,14.1,14.1.1,57,micronesia,2021,center for ocean-atmospheric prediction studies (coaps),231.0
+14,14.1,14.1.1,57,micronesia,2022,center for ocean-atmospheric prediction studies (coaps),228.0
+14,14.1,14.1.1,583,micronesia (federated states of),2017,center for ocean-atmospheric prediction studies (coaps),167.0
+14,14.1,14.1.1,583,micronesia (federated states of),2018,center for ocean-atmospheric prediction studies (coaps),162.0
+14,14.1,14.1.1,583,micronesia (federated states of),2019,center for ocean-atmospheric prediction studies (coaps),174.0
+14,14.1,14.1.1,583,micronesia (federated states of),2020,center for ocean-atmospheric prediction studies (coaps),170.0
+14,14.1,14.1.1,583,micronesia (federated states of),2021,center for ocean-atmospheric prediction studies (coaps),176.0
+14,14.1,14.1.1,17,middle africa,2017,center for ocean-atmospheric prediction studies (coaps),1351.0
+14,14.1,14.1.1,17,middle africa,2018,center for ocean-atmospheric prediction studies (coaps),2028.0
+14,14.1,14.1.1,17,middle africa,2019,center for ocean-atmospheric prediction studies (coaps),1023.0
+14,14.1,14.1.1,17,middle africa,2020,center for ocean-atmospheric prediction studies (coaps),975.0
+14,14.1,14.1.1,17,middle africa,2021,center for ocean-atmospheric prediction studies (coaps),1579.0
+14,14.1,14.1.1,17,middle africa,2022,center for ocean-atmospheric prediction studies (coaps),2761.0
+14,14.1,14.1.1,499,montenegro,2017,center for ocean-atmospheric prediction studies (coaps),1143.0
+14,14.1,14.1.1,499,montenegro,2018,center for ocean-atmospheric prediction studies (coaps),1100.0
+14,14.1,14.1.1,499,montenegro,2019,center for ocean-atmospheric prediction studies (coaps),1167.0
+14,14.1,14.1.1,499,montenegro,2020,center for ocean-atmospheric prediction studies (coaps),1127.0
+14,14.1,14.1.1,499,montenegro,2021,center for ocean-atmospheric prediction studies (coaps),1159.0
+14,14.1,14.1.1,504,morocco,2017,center for ocean-atmospheric prediction studies (coaps),49668.0
+14,14.1,14.1.1,504,morocco,2018,center for ocean-atmospheric prediction studies (coaps),51493.0
+14,14.1,14.1.1,504,morocco,2019,center for ocean-atmospheric prediction studies (coaps),48989.0
+14,14.1,14.1.1,504,morocco,2020,center for ocean-atmospheric prediction studies (coaps),53376.0
+14,14.1,14.1.1,504,morocco,2021,center for ocean-atmospheric prediction studies (coaps),53206.0
+14,14.1,14.1.1,508,mozambique,2017,center for ocean-atmospheric prediction studies (coaps),36822.0
+14,14.1,14.1.1,508,mozambique,2018,center for ocean-atmospheric prediction studies (coaps),39826.0
+14,14.1,14.1.1,508,mozambique,2019,center for ocean-atmospheric prediction studies (coaps),40162.0
+14,14.1,14.1.1,508,mozambique,2020,center for ocean-atmospheric prediction studies (coaps),42499.0
+14,14.1,14.1.1,508,mozambique,2021,center for ocean-atmospheric prediction studies (coaps),44526.0
+14,14.1,14.1.1,104,myanmar,2017,center for ocean-atmospheric prediction studies (coaps),113879.0
+14,14.1,14.1.1,104,myanmar,2018,center for ocean-atmospheric prediction studies (coaps),113231.0
+14,14.1,14.1.1,104,myanmar,2019,center for ocean-atmospheric prediction studies (coaps),115863.0
+14,14.1,14.1.1,104,myanmar,2020,center for ocean-atmospheric prediction studies (coaps),118887.0
+14,14.1,14.1.1,104,myanmar,2021,center for ocean-atmospheric prediction studies (coaps),111683.0
+14,14.1,14.1.1,516,namibia,2017,center for ocean-atmospheric prediction studies (coaps),138.0
+14,14.1,14.1.1,516,namibia,2018,center for ocean-atmospheric prediction studies (coaps),114.0
+14,14.1,14.1.1,516,namibia,2019,center for ocean-atmospheric prediction studies (coaps),125.0
+14,14.1,14.1.1,516,namibia,2020,center for ocean-atmospheric prediction studies (coaps),120.0
+14,14.1,14.1.1,516,namibia,2021,center for ocean-atmospheric prediction studies (coaps),103.0
+14,14.1,14.1.1,528,netherlands (kingdom of the),2017,center for ocean-atmospheric prediction studies (coaps),1061.0
+14,14.1,14.1.1,528,netherlands (kingdom of the),2018,center for ocean-atmospheric prediction studies (coaps),2721.0
+14,14.1,14.1.1,528,netherlands (kingdom of the),2019,center for ocean-atmospheric prediction studies (coaps),2687.0
+14,14.1,14.1.1,528,netherlands (kingdom of the),2020,center for ocean-atmospheric prediction studies (coaps),2170.0
+14,14.1,14.1.1,528,netherlands (kingdom of the),2021,center for ocean-atmospheric prediction studies (coaps),2094.0
+14,14.1,14.1.1,554,new zealand,2017,center for ocean-atmospheric prediction studies (coaps),312.0
+14,14.1,14.1.1,554,new zealand,2018,center for ocean-atmospheric prediction studies (coaps),337.0
+14,14.1,14.1.1,554,new zealand,2019,center for ocean-atmospheric prediction studies (coaps),353.0
+14,14.1,14.1.1,554,new zealand,2020,center for ocean-atmospheric prediction studies (coaps),375.0
+14,14.1,14.1.1,554,new zealand,2021,center for ocean-atmospheric prediction studies (coaps),401.0
+14,14.1,14.1.1,558,nicaragua,2017,center for ocean-atmospheric prediction studies (coaps),20865.0
+14,14.1,14.1.1,558,nicaragua,2018,center for ocean-atmospheric prediction studies (coaps),21839.0
+14,14.1,14.1.1,558,nicaragua,2019,center for ocean-atmospheric prediction studies (coaps),23496.0
+14,14.1,14.1.1,558,nicaragua,2020,center for ocean-atmospheric prediction studies (coaps),22313.0
+14,14.1,14.1.1,558,nicaragua,2021,center for ocean-atmospheric prediction studies (coaps),21576.0
+14,14.1,14.1.1,566,nigeria,2017,center for ocean-atmospheric prediction studies (coaps),7180.0
+14,14.1,14.1.1,566,nigeria,2018,center for ocean-atmospheric prediction studies (coaps),7546.0
+14,14.1,14.1.1,566,nigeria,2019,center for ocean-atmospheric prediction studies (coaps),5705.0
+14,14.1,14.1.1,566,nigeria,2020,center for ocean-atmospheric prediction studies (coaps),5784.0
+14,14.1,14.1.1,566,nigeria,2021,center for ocean-atmospheric prediction studies (coaps),10980.0
+14,14.1,14.1.1,15,northern africa,2017,center for ocean-atmospheric prediction studies (coaps),206182.0
+14,14.1,14.1.1,15,northern africa,2018,center for ocean-atmospheric prediction studies (coaps),266692.0
+14,14.1,14.1.1,15,northern africa,2019,center for ocean-atmospheric prediction studies (coaps),275252.0
+14,14.1,14.1.1,15,northern africa,2020,center for ocean-atmospheric prediction studies (coaps),247158.0
+14,14.1,14.1.1,15,northern africa,2021,center for ocean-atmospheric prediction studies (coaps),258602.0
+14,14.1,14.1.1,15,northern africa,2022,center for ocean-atmospheric prediction studies (coaps),231186.0
+14,14.1,14.1.1,747,northern africa and western asia,2017,center for ocean-atmospheric prediction studies (coaps),364986.0
+14,14.1,14.1.1,747,northern africa and western asia,2018,center for ocean-atmospheric prediction studies (coaps),406125.0
+14,14.1,14.1.1,747,northern africa and western asia,2019,center for ocean-atmospheric prediction studies (coaps),456734.0
+14,14.1,14.1.1,747,northern africa and western asia,2020,center for ocean-atmospheric prediction studies (coaps),392503.0
+14,14.1,14.1.1,747,northern africa and western asia,2021,center for ocean-atmospheric prediction studies (coaps),428473.0
+14,14.1,14.1.1,747,northern africa and western asia,2022,center for ocean-atmospheric prediction studies (coaps),391410.0
+14,14.1,14.1.1,21,northern america,2017,center for ocean-atmospheric prediction studies (coaps),34638.0
+14,14.1,14.1.1,21,northern america,2018,center for ocean-atmospheric prediction studies (coaps),36097.0
+14,14.1,14.1.1,21,northern america,2019,center for ocean-atmospheric prediction studies (coaps),37541.0
+14,14.1,14.1.1,21,northern america,2020,center for ocean-atmospheric prediction studies (coaps),38878.0
+14,14.1,14.1.1,21,northern america,2021,center for ocean-atmospheric prediction studies (coaps),39497.0
+14,14.1,14.1.1,21,northern america,2022,center for ocean-atmospheric prediction studies (coaps),41657.0
+14,14.1,14.1.1,154,northern europe,2017,center for ocean-atmospheric prediction studies (coaps),1413.0
+14,14.1,14.1.1,154,northern europe,2018,center for ocean-atmospheric prediction studies (coaps),2300.0
+14,14.1,14.1.1,154,northern europe,2019,center for ocean-atmospheric prediction studies (coaps),2760.0
+14,14.1,14.1.1,154,northern europe,2020,center for ocean-atmospheric prediction studies (coaps),2245.0
+14,14.1,14.1.1,154,northern europe,2021,center for ocean-atmospheric prediction studies (coaps),3034.0
+14,14.1,14.1.1,154,northern europe,2022,center for ocean-atmospheric prediction studies (coaps),2892.0
+14,14.1,14.1.1,578,norway,2017,center for ocean-atmospheric prediction studies (coaps),73.0
+14,14.1,14.1.1,578,norway,2018,center for ocean-atmospheric prediction studies (coaps),81.0
+14,14.1,14.1.1,578,norway,2019,center for ocean-atmospheric prediction studies (coaps),97.0
+14,14.1,14.1.1,578,norway,2020,center for ocean-atmospheric prediction studies (coaps),63.0
+14,14.1,14.1.1,578,norway,2021,center for ocean-atmospheric prediction studies (coaps),83.0
+14,14.1,14.1.1,9,oceania,2017,center for ocean-atmospheric prediction studies (coaps),25343.0
+14,14.1,14.1.1,9,oceania,2018,center for ocean-atmospheric prediction studies (coaps),27127.0
+14,14.1,14.1.1,9,oceania,2019,center for ocean-atmospheric prediction studies (coaps),23247.0
+14,14.1,14.1.1,9,oceania,2020,center for ocean-atmospheric prediction studies (coaps),23506.0
+14,14.1,14.1.1,9,oceania,2021,center for ocean-atmospheric prediction studies (coaps),24793.0
+14,14.1,14.1.1,9,oceania,2022,center for ocean-atmospheric prediction studies (coaps),24049.0
+14,14.1,14.1.1,543,oceania (exc. australia and new zealand),2017,center for ocean-atmospheric prediction studies (coaps),23702.0
+14,14.1,14.1.1,543,oceania (exc. australia and new zealand),2018,center for ocean-atmospheric prediction studies (coaps),25261.0
+14,14.1,14.1.1,543,oceania (exc. australia and new zealand),2019,center for ocean-atmospheric prediction studies (coaps),21642.0
+14,14.1,14.1.1,543,oceania (exc. australia and new zealand),2020,center for ocean-atmospheric prediction studies (coaps),21698.0
+14,14.1,14.1.1,543,oceania (exc. australia and new zealand),2021,center for ocean-atmospheric prediction studies (coaps),22759.0
+14,14.1,14.1.1,543,oceania (exc. australia and new zealand),2022,center for ocean-atmospheric prediction studies (coaps),21855.0
+14,14.1,14.1.1,512,oman,2017,center for ocean-atmospheric prediction studies (coaps),96.0
+14,14.1,14.1.1,512,oman,2018,center for ocean-atmospheric prediction studies (coaps),97.0
+14,14.1,14.1.1,512,oman,2019,center for ocean-atmospheric prediction studies (coaps),87.0
+14,14.1,14.1.1,512,oman,2020,center for ocean-atmospheric prediction studies (coaps),84.0
+14,14.1,14.1.1,512,oman,2021,center for ocean-atmospheric prediction studies (coaps),103.0
+14,14.1,14.1.1,586,pakistan,2017,center for ocean-atmospheric prediction studies (coaps),26146.0
+14,14.1,14.1.1,586,pakistan,2018,center for ocean-atmospheric prediction studies (coaps),26365.0
+14,14.1,14.1.1,586,pakistan,2019,center for ocean-atmospheric prediction studies (coaps),30167.0
+14,14.1,14.1.1,586,pakistan,2020,center for ocean-atmospheric prediction studies (coaps),29930.0
+14,14.1,14.1.1,586,pakistan,2021,center for ocean-atmospheric prediction studies (coaps),30671.0
+14,14.1,14.1.1,585,palau,2017,center for ocean-atmospheric prediction studies (coaps),34.0
+14,14.1,14.1.1,585,palau,2018,center for ocean-atmospheric prediction studies (coaps),38.0
+14,14.1,14.1.1,585,palau,2019,center for ocean-atmospheric prediction studies (coaps),36.0
+14,14.1,14.1.1,585,palau,2020,center for ocean-atmospheric prediction studies (coaps),27.0
+14,14.1,14.1.1,585,palau,2021,center for ocean-atmospheric prediction studies (coaps),34.0
+14,14.1,14.1.1,591,panama,2017,center for ocean-atmospheric prediction studies (coaps),6676.0
+14,14.1,14.1.1,591,panama,2018,center for ocean-atmospheric prediction studies (coaps),6949.0
+14,14.1,14.1.1,591,panama,2019,center for ocean-atmospheric prediction studies (coaps),6134.0
+14,14.1,14.1.1,591,panama,2020,center for ocean-atmospheric prediction studies (coaps),6533.0
+14,14.1,14.1.1,591,panama,2021,center for ocean-atmospheric prediction studies (coaps),5785.0
+14,14.1,14.1.1,598,papua new guinea,2017,center for ocean-atmospheric prediction studies (coaps),8982.0
+14,14.1,14.1.1,598,papua new guinea,2018,center for ocean-atmospheric prediction studies (coaps),9327.0
+14,14.1,14.1.1,598,papua new guinea,2019,center for ocean-atmospheric prediction studies (coaps),7841.0
+14,14.1,14.1.1,598,papua new guinea,2020,center for ocean-atmospheric prediction studies (coaps),7210.0
+14,14.1,14.1.1,598,papua new guinea,2021,center for ocean-atmospheric prediction studies (coaps),8880.0
+14,14.1,14.1.1,604,peru,2017,center for ocean-atmospheric prediction studies (coaps),6468.0
+14,14.1,14.1.1,604,peru,2018,center for ocean-atmospheric prediction studies (coaps),6770.0
+14,14.1,14.1.1,604,peru,2019,center for ocean-atmospheric prediction studies (coaps),6280.0
+14,14.1,14.1.1,604,peru,2020,center for ocean-atmospheric prediction studies (coaps),6720.0
+14,14.1,14.1.1,604,peru,2021,center for ocean-atmospheric prediction studies (coaps),8249.0
+14,14.1,14.1.1,608,philippines,2017,center for ocean-atmospheric prediction studies (coaps),1022158.0
+14,14.1,14.1.1,608,philippines,2018,center for ocean-atmospheric prediction studies (coaps),978280.0
+14,14.1,14.1.1,608,philippines,2019,center for ocean-atmospheric prediction studies (coaps),947184.0
+14,14.1,14.1.1,608,philippines,2020,center for ocean-atmospheric prediction studies (coaps),1012534.0
+14,14.1,14.1.1,608,philippines,2021,center for ocean-atmospheric prediction studies (coaps),1147105.0
+14,14.1,14.1.1,616,poland,2017,center for ocean-atmospheric prediction studies (coaps),35.0
+14,14.1,14.1.1,616,poland,2018,center for ocean-atmospheric prediction studies (coaps),114.0
+14,14.1,14.1.1,616,poland,2019,center for ocean-atmospheric prediction studies (coaps),70.0
+14,14.1,14.1.1,616,poland,2020,center for ocean-atmospheric prediction studies (coaps),81.0
+14,14.1,14.1.1,616,poland,2021,center for ocean-atmospheric prediction studies (coaps),80.0
+14,14.1,14.1.1,61,polynesia,2022,center for ocean-atmospheric prediction studies (coaps),870.0
+14,14.1,14.1.1,620,portugal,2017,center for ocean-atmospheric prediction studies (coaps),673.0
+14,14.1,14.1.1,620,portugal,2018,center for ocean-atmospheric prediction studies (coaps),593.0
+14,14.1,14.1.1,620,portugal,2019,center for ocean-atmospheric prediction studies (coaps),544.0
+14,14.1,14.1.1,620,portugal,2020,center for ocean-atmospheric prediction studies (coaps),583.0
+14,14.1,14.1.1,620,portugal,2021,center for ocean-atmospheric prediction studies (coaps),662.0
+14,14.1,14.1.1,630,puerto rico,2017,center for ocean-atmospheric prediction studies (coaps),320.0
+14,14.1,14.1.1,630,puerto rico,2018,center for ocean-atmospheric prediction studies (coaps),335.0
+14,14.1,14.1.1,630,puerto rico,2019,center for ocean-atmospheric prediction studies (coaps),359.0
+14,14.1,14.1.1,630,puerto rico,2020,center for ocean-atmospheric prediction studies (coaps),385.0
+14,14.1,14.1.1,630,puerto rico,2021,center for ocean-atmospheric prediction studies (coaps),394.0
+14,14.1,14.1.1,634,qatar,2017,center for ocean-atmospheric prediction studies (coaps),23.0
+14,14.1,14.1.1,634,qatar,2018,center for ocean-atmospheric prediction studies (coaps),22.0
+14,14.1,14.1.1,634,qatar,2019,center for ocean-atmospheric prediction studies (coaps),17.0
+14,14.1,14.1.1,634,qatar,2020,center for ocean-atmospheric prediction studies (coaps),20.0
+14,14.1,14.1.1,634,qatar,2021,center for ocean-atmospheric prediction studies (coaps),20.0
+14,14.1,14.1.1,410,republic of korea,2017,center for ocean-atmospheric prediction studies (coaps),3186.0
+14,14.1,14.1.1,410,republic of korea,2018,center for ocean-atmospheric prediction studies (coaps),3831.0
+14,14.1,14.1.1,410,republic of korea,2019,center for ocean-atmospheric prediction studies (coaps),3556.0
+14,14.1,14.1.1,410,republic of korea,2020,center for ocean-atmospheric prediction studies (coaps),3400.0
+14,14.1,14.1.1,410,republic of korea,2021,center for ocean-atmospheric prediction studies (coaps),3344.0
+14,14.1,14.1.1,638,réunion,2017,center for ocean-atmospheric prediction studies (coaps),65.0
+14,14.1,14.1.1,638,réunion,2018,center for ocean-atmospheric prediction studies (coaps),73.0
+14,14.1,14.1.1,638,réunion,2019,center for ocean-atmospheric prediction studies (coaps),72.0
+14,14.1,14.1.1,638,réunion,2020,center for ocean-atmospheric prediction studies (coaps),72.0
+14,14.1,14.1.1,638,réunion,2021,center for ocean-atmospheric prediction studies (coaps),76.0
+14,14.1,14.1.1,642,romania,2017,center for ocean-atmospheric prediction studies (coaps),1227.0
+14,14.1,14.1.1,642,romania,2018,center for ocean-atmospheric prediction studies (coaps),637.0
+14,14.1,14.1.1,642,romania,2019,center for ocean-atmospheric prediction studies (coaps),877.0
+14,14.1,14.1.1,642,romania,2020,center for ocean-atmospheric prediction studies (coaps),806.0
+14,14.1,14.1.1,642,romania,2021,center for ocean-atmospheric prediction studies (coaps),1064.0
+14,14.1,14.1.1,643,russian federation,2017,center for ocean-atmospheric prediction studies (coaps),11947.0
+14,14.1,14.1.1,643,russian federation,2018,center for ocean-atmospheric prediction studies (coaps),13326.0
+14,14.1,14.1.1,643,russian federation,2019,center for ocean-atmospheric prediction studies (coaps),13764.0
+14,14.1,14.1.1,643,russian federation,2020,center for ocean-atmospheric prediction studies (coaps),12951.0
+14,14.1,14.1.1,643,russian federation,2021,center for ocean-atmospheric prediction studies (coaps),14862.0
+14,14.1,14.1.1,659,saint kitts and nevis,2017,center for ocean-atmospheric prediction studies (coaps),25.0
+14,14.1,14.1.1,659,saint kitts and nevis,2018,center for ocean-atmospheric prediction studies (coaps),25.0
+14,14.1,14.1.1,659,saint kitts and nevis,2019,center for ocean-atmospheric prediction studies (coaps),26.0
+14,14.1,14.1.1,659,saint kitts and nevis,2020,center for ocean-atmospheric prediction studies (coaps),32.0
+14,14.1,14.1.1,659,saint kitts and nevis,2021,center for ocean-atmospheric prediction studies (coaps),34.0
+14,14.1,14.1.1,662,saint lucia,2017,center for ocean-atmospheric prediction studies (coaps),1127.0
+14,14.1,14.1.1,662,saint lucia,2018,center for ocean-atmospheric prediction studies (coaps),1249.0
+14,14.1,14.1.1,662,saint lucia,2019,center for ocean-atmospheric prediction studies (coaps),1315.0
+14,14.1,14.1.1,662,saint lucia,2020,center for ocean-atmospheric prediction studies (coaps),1449.0
+14,14.1,14.1.1,662,saint lucia,2021,center for ocean-atmospheric prediction studies (coaps),1416.0
+14,14.1,14.1.1,670,saint vincent and the grenadines,2017,center for ocean-atmospheric prediction studies (coaps),312.0
+14,14.1,14.1.1,670,saint vincent and the grenadines,2018,center for ocean-atmospheric prediction studies (coaps),316.0
+14,14.1,14.1.1,670,saint vincent and the grenadines,2019,center for ocean-atmospheric prediction studies (coaps),333.0
+14,14.1,14.1.1,670,saint vincent and the grenadines,2020,center for ocean-atmospheric prediction studies (coaps),334.0
+14,14.1,14.1.1,670,saint vincent and the grenadines,2021,center for ocean-atmospheric prediction studies (coaps),363.0
+14,14.1,14.1.1,882,samoa,2017,center for ocean-atmospheric prediction studies (coaps),384.0
+14,14.1,14.1.1,882,samoa,2018,center for ocean-atmospheric prediction studies (coaps),471.0
+14,14.1,14.1.1,882,samoa,2019,center for ocean-atmospheric prediction studies (coaps),424.0
+14,14.1,14.1.1,882,samoa,2020,center for ocean-atmospheric prediction studies (coaps),483.0
+14,14.1,14.1.1,882,samoa,2021,center for ocean-atmospheric prediction studies (coaps),508.0
+14,14.1,14.1.1,678,sao tome and principe,2017,center for ocean-atmospheric prediction studies (coaps),41.0
+14,14.1,14.1.1,678,sao tome and principe,2018,center for ocean-atmospheric prediction studies (coaps),85.0
+14,14.1,14.1.1,678,sao tome and principe,2019,center for ocean-atmospheric prediction studies (coaps),49.0
+14,14.1,14.1.1,678,sao tome and principe,2020,center for ocean-atmospheric prediction studies (coaps),58.0
+14,14.1,14.1.1,678,sao tome and principe,2021,center for ocean-atmospheric prediction studies (coaps),39.0
+14,14.1,14.1.1,682,saudi arabia,2017,center for ocean-atmospheric prediction studies (coaps),283.0
+14,14.1,14.1.1,682,saudi arabia,2018,center for ocean-atmospheric prediction studies (coaps),271.0
+14,14.1,14.1.1,682,saudi arabia,2019,center for ocean-atmospheric prediction studies (coaps),255.0
+14,14.1,14.1.1,682,saudi arabia,2020,center for ocean-atmospheric prediction studies (coaps),277.0
+14,14.1,14.1.1,682,saudi arabia,2021,center for ocean-atmospheric prediction studies (coaps),200.0
+14,14.1,14.1.1,686,senegal,2017,center for ocean-atmospheric prediction studies (coaps),7210.0
+14,14.1,14.1.1,686,senegal,2018,center for ocean-atmospheric prediction studies (coaps),6430.0
+14,14.1,14.1.1,686,senegal,2019,center for ocean-atmospheric prediction studies (coaps),6157.0
+14,14.1,14.1.1,686,senegal,2020,center for ocean-atmospheric prediction studies (coaps),6384.0
+14,14.1,14.1.1,686,senegal,2021,center for ocean-atmospheric prediction studies (coaps),4900.0
+14,14.1,14.1.1,690,seychelles,2017,center for ocean-atmospheric prediction studies (coaps),23.0
+14,14.1,14.1.1,690,seychelles,2018,center for ocean-atmospheric prediction studies (coaps),23.0
+14,14.1,14.1.1,690,seychelles,2019,center for ocean-atmospheric prediction studies (coaps),24.0
+14,14.1,14.1.1,690,seychelles,2020,center for ocean-atmospheric prediction studies (coaps),27.0
+14,14.1,14.1.1,690,seychelles,2021,center for ocean-atmospheric prediction studies (coaps),27.0
+14,14.1,14.1.1,694,sierra leone,2017,center for ocean-atmospheric prediction studies (coaps),147.0
+14,14.1,14.1.1,694,sierra leone,2018,center for ocean-atmospheric prediction studies (coaps),178.0
+14,14.1,14.1.1,694,sierra leone,2019,center for ocean-atmospheric prediction studies (coaps),75.0
+14,14.1,14.1.1,694,sierra leone,2020,center for ocean-atmospheric prediction studies (coaps),8.0
+14,14.1,14.1.1,694,sierra leone,2021,center for ocean-atmospheric prediction studies (coaps),269.0
+14,14.1,14.1.1,722,small island developing states (sids),2017,center for ocean-atmospheric prediction studies (coaps),174374.0
+14,14.1,14.1.1,722,small island developing states (sids),2018,center for ocean-atmospheric prediction studies (coaps),182514.0
+14,14.1,14.1.1,722,small island developing states (sids),2019,center for ocean-atmospheric prediction studies (coaps),178422.0
+14,14.1,14.1.1,722,small island developing states (sids),2020,center for ocean-atmospheric prediction studies (coaps),204125.0
+14,14.1,14.1.1,722,small island developing states (sids),2021,center for ocean-atmospheric prediction studies (coaps),205671.0
+14,14.1,14.1.1,722,small island developing states (sids),2022,center for ocean-atmospheric prediction studies (coaps),215507.0
+14,14.1,14.1.1,90,solomon islands,2017,center for ocean-atmospheric prediction studies (coaps),12913.0
+14,14.1,14.1.1,90,solomon islands,2018,center for ocean-atmospheric prediction studies (coaps),13746.0
+14,14.1,14.1.1,90,solomon islands,2019,center for ocean-atmospheric prediction studies (coaps),12002.0
+14,14.1,14.1.1,90,solomon islands,2020,center for ocean-atmospheric prediction studies (coaps),12544.0
+14,14.1,14.1.1,90,solomon islands,2021,center for ocean-atmospheric prediction studies (coaps),11587.0
+14,14.1,14.1.1,706,somalia,2017,center for ocean-atmospheric prediction studies (coaps),734.0
+14,14.1,14.1.1,706,somalia,2018,center for ocean-atmospheric prediction studies (coaps),790.0
+14,14.1,14.1.1,706,somalia,2019,center for ocean-atmospheric prediction studies (coaps),661.0
+14,14.1,14.1.1,706,somalia,2020,center for ocean-atmospheric prediction studies (coaps),966.0
+14,14.1,14.1.1,706,somalia,2021,center for ocean-atmospheric prediction studies (coaps),891.0
+14,14.1,14.1.1,710,south africa,2017,center for ocean-atmospheric prediction studies (coaps),103608.0
+14,14.1,14.1.1,710,south africa,2018,center for ocean-atmospheric prediction studies (coaps),107613.0
+14,14.1,14.1.1,710,south africa,2019,center for ocean-atmospheric prediction studies (coaps),106290.0
+14,14.1,14.1.1,710,south africa,2020,center for ocean-atmospheric prediction studies (coaps),108535.0
+14,14.1,14.1.1,710,south africa,2021,center for ocean-atmospheric prediction studies (coaps),111799.0
+14,14.1,14.1.1,5,south america,2017,center for ocean-atmospheric prediction studies (coaps),424433.0
+14,14.1,14.1.1,5,south america,2018,center for ocean-atmospheric prediction studies (coaps),438359.0
+14,14.1,14.1.1,5,south america,2019,center for ocean-atmospheric prediction studies (coaps),433944.0
+14,14.1,14.1.1,5,south america,2020,center for ocean-atmospheric prediction studies (coaps),467612.0
+14,14.1,14.1.1,5,south america,2021,center for ocean-atmospheric prediction studies (coaps),479633.0
+14,14.1,14.1.1,5,south america,2022,center for ocean-atmospheric prediction studies (coaps),510445.0
+14,14.1,14.1.1,35,south-eastern asia,2017,center for ocean-atmospheric prediction studies (coaps),1982886.0
+14,14.1,14.1.1,35,south-eastern asia,2018,center for ocean-atmospheric prediction studies (coaps),1906627.0
+14,14.1,14.1.1,35,south-eastern asia,2019,center for ocean-atmospheric prediction studies (coaps),1868814.0
+14,14.1,14.1.1,35,south-eastern asia,2020,center for ocean-atmospheric prediction studies (coaps),2081680.0
+14,14.1,14.1.1,35,south-eastern asia,2021,center for ocean-atmospheric prediction studies (coaps),2228596.0
+14,14.1,14.1.1,35,south-eastern asia,2022,center for ocean-atmospheric prediction studies (coaps),2331427.0
+14,14.1,14.1.1,18,southern africa,2017,center for ocean-atmospheric prediction studies (coaps),103746.0
+14,14.1,14.1.1,18,southern africa,2018,center for ocean-atmospheric prediction studies (coaps),107727.0
+14,14.1,14.1.1,18,southern africa,2019,center for ocean-atmospheric prediction studies (coaps),106415.0
+14,14.1,14.1.1,18,southern africa,2020,center for ocean-atmospheric prediction studies (coaps),108655.0
+14,14.1,14.1.1,18,southern africa,2021,center for ocean-atmospheric prediction studies (coaps),111902.0
+14,14.1,14.1.1,18,southern africa,2022,center for ocean-atmospheric prediction studies (coaps),113460.0
+14,14.1,14.1.1,34,southern asia,2017,center for ocean-atmospheric prediction studies (coaps),729897.0
+14,14.1,14.1.1,34,southern asia,2018,center for ocean-atmospheric prediction studies (coaps),740243.0
+14,14.1,14.1.1,34,southern asia,2019,center for ocean-atmospheric prediction studies (coaps),756509.0
+14,14.1,14.1.1,34,southern asia,2020,center for ocean-atmospheric prediction studies (coaps),777572.0
+14,14.1,14.1.1,34,southern asia,2021,center for ocean-atmospheric prediction studies (coaps),729651.0
+14,14.1,14.1.1,34,southern asia,2022,center for ocean-atmospheric prediction studies (coaps),748078.0
+14,14.1,14.1.1,39,southern europe,2017,center for ocean-atmospheric prediction studies (coaps),28131.0
+14,14.1,14.1.1,39,southern europe,2018,center for ocean-atmospheric prediction studies (coaps),29977.0
+14,14.1,14.1.1,39,southern europe,2019,center for ocean-atmospheric prediction studies (coaps),32740.0
+14,14.1,14.1.1,39,southern europe,2020,center for ocean-atmospheric prediction studies (coaps),29286.0
+14,14.1,14.1.1,39,southern europe,2021,center for ocean-atmospheric prediction studies (coaps),31383.0
+14,14.1,14.1.1,39,southern europe,2022,center for ocean-atmospheric prediction studies (coaps),28828.0
+14,14.1,14.1.1,724,spain,2017,center for ocean-atmospheric prediction studies (coaps),3357.0
+14,14.1,14.1.1,724,spain,2018,center for ocean-atmospheric prediction studies (coaps),3924.0
+14,14.1,14.1.1,724,spain,2019,center for ocean-atmospheric prediction studies (coaps),3498.0
+14,14.1,14.1.1,724,spain,2020,center for ocean-atmospheric prediction studies (coaps),3636.0
+14,14.1,14.1.1,724,spain,2021,center for ocean-atmospheric prediction studies (coaps),3390.0
+14,14.1,14.1.1,144,sri lanka,2017,center for ocean-atmospheric prediction studies (coaps),31628.0
+14,14.1,14.1.1,144,sri lanka,2018,center for ocean-atmospheric prediction studies (coaps),33382.0
+14,14.1,14.1.1,144,sri lanka,2019,center for ocean-atmospheric prediction studies (coaps),33506.0
+14,14.1,14.1.1,144,sri lanka,2020,center for ocean-atmospheric prediction studies (coaps),36457.0
+14,14.1,14.1.1,144,sri lanka,2021,center for ocean-atmospheric prediction studies (coaps),33979.0
+14,14.1,14.1.1,275,state of palestine,2017,center for ocean-atmospheric prediction studies (coaps),143.0
+14,14.1,14.1.1,275,state of palestine,2018,center for ocean-atmospheric prediction studies (coaps),300.0
+14,14.1,14.1.1,275,state of palestine,2019,center for ocean-atmospheric prediction studies (coaps),302.0
+14,14.1,14.1.1,275,state of palestine,2020,center for ocean-atmospheric prediction studies (coaps),255.0
+14,14.1,14.1.1,275,state of palestine,2021,center for ocean-atmospheric prediction studies (coaps),237.0
+14,14.1,14.1.1,202,sub-saharan africa,2017,center for ocean-atmospheric prediction studies (coaps),259784.0
+14,14.1,14.1.1,202,sub-saharan africa,2018,center for ocean-atmospheric prediction studies (coaps),277787.0
+14,14.1,14.1.1,202,sub-saharan africa,2019,center for ocean-atmospheric prediction studies (coaps),279486.0
+14,14.1,14.1.1,202,sub-saharan africa,2020,center for ocean-atmospheric prediction studies (coaps),299270.0
+14,14.1,14.1.1,202,sub-saharan africa,2021,center for ocean-atmospheric prediction studies (coaps),298908.0
+14,14.1,14.1.1,202,sub-saharan africa,2022,center for ocean-atmospheric prediction studies (coaps),300931.0
+14,14.1,14.1.1,729,sudan,2017,center for ocean-atmospheric prediction studies (coaps),747.0
+14,14.1,14.1.1,729,sudan,2018,center for ocean-atmospheric prediction studies (coaps),745.0
+14,14.1,14.1.1,729,sudan,2019,center for ocean-atmospheric prediction studies (coaps),528.0
+14,14.1,14.1.1,729,sudan,2020,center for ocean-atmospheric prediction studies (coaps),918.0
+14,14.1,14.1.1,729,sudan,2021,center for ocean-atmospheric prediction studies (coaps),596.0
+14,14.1,14.1.1,740,suriname,2017,center for ocean-atmospheric prediction studies (coaps),2495.0
+14,14.1,14.1.1,740,suriname,2018,center for ocean-atmospheric prediction studies (coaps),1883.0
+14,14.1,14.1.1,740,suriname,2019,center for ocean-atmospheric prediction studies (coaps),2439.0
+14,14.1,14.1.1,740,suriname,2020,center for ocean-atmospheric prediction studies (coaps),4285.0
+14,14.1,14.1.1,740,suriname,2021,center for ocean-atmospheric prediction studies (coaps),3707.0
+14,14.1,14.1.1,752,sweden,2017,center for ocean-atmospheric prediction studies (coaps),75.0
+14,14.1,14.1.1,752,sweden,2018,center for ocean-atmospheric prediction studies (coaps),164.0
+14,14.1,14.1.1,752,sweden,2019,center for ocean-atmospheric prediction studies (coaps),145.0
+14,14.1,14.1.1,752,sweden,2020,center for ocean-atmospheric prediction studies (coaps),90.0
+14,14.1,14.1.1,752,sweden,2021,center for ocean-atmospheric prediction studies (coaps),146.0
+14,14.1,14.1.1,760,syrian arab republic,2017,center for ocean-atmospheric prediction studies (coaps),781.0
+14,14.1,14.1.1,760,syrian arab republic,2018,center for ocean-atmospheric prediction studies (coaps),1173.0
+14,14.1,14.1.1,760,syrian arab republic,2019,center for ocean-atmospheric prediction studies (coaps),1089.0
+14,14.1,14.1.1,760,syrian arab republic,2020,center for ocean-atmospheric prediction studies (coaps),1026.0
+14,14.1,14.1.1,760,syrian arab republic,2021,center for ocean-atmospheric prediction studies (coaps),980.0
+14,14.1,14.1.1,764,thailand,2017,center for ocean-atmospheric prediction studies (coaps),104078.0
+14,14.1,14.1.1,764,thailand,2018,center for ocean-atmospheric prediction studies (coaps),84055.0
+14,14.1,14.1.1,764,thailand,2019,center for ocean-atmospheric prediction studies (coaps),86455.0
+14,14.1,14.1.1,764,thailand,2020,center for ocean-atmospheric prediction studies (coaps),91281.0
+14,14.1,14.1.1,764,thailand,2021,center for ocean-atmospheric prediction studies (coaps),97829.0
+14,14.1,14.1.1,626,timor-leste,2017,center for ocean-atmospheric prediction studies (coaps),5254.0
+14,14.1,14.1.1,626,timor-leste,2018,center for ocean-atmospheric prediction studies (coaps),5102.0
+14,14.1,14.1.1,626,timor-leste,2019,center for ocean-atmospheric prediction studies (coaps),5068.0
+14,14.1,14.1.1,626,timor-leste,2020,center for ocean-atmospheric prediction studies (coaps),5528.0
+14,14.1,14.1.1,626,timor-leste,2021,center for ocean-atmospheric prediction studies (coaps),5793.0
+14,14.1,14.1.1,768,togo,2017,center for ocean-atmospheric prediction studies (coaps),60.0
+14,14.1,14.1.1,768,togo,2018,center for ocean-atmospheric prediction studies (coaps),368.0
+14,14.1,14.1.1,768,togo,2019,center for ocean-atmospheric prediction studies (coaps),0.0
+14,14.1,14.1.1,768,togo,2020,center for ocean-atmospheric prediction studies (coaps),15.0
+14,14.1,14.1.1,768,togo,2021,center for ocean-atmospheric prediction studies (coaps),216.0
+14,14.1,14.1.1,776,tonga,2017,center for ocean-atmospheric prediction studies (coaps),172.0
+14,14.1,14.1.1,776,tonga,2018,center for ocean-atmospheric prediction studies (coaps),183.0
+14,14.1,14.1.1,776,tonga,2019,center for ocean-atmospheric prediction studies (coaps),188.0
+14,14.1,14.1.1,776,tonga,2020,center for ocean-atmospheric prediction studies (coaps),196.0
+14,14.1,14.1.1,776,tonga,2021,center for ocean-atmospheric prediction studies (coaps),224.0
+14,14.1,14.1.1,780,trinidad and tobago,2017,center for ocean-atmospheric prediction studies (coaps),12544.0
+14,14.1,14.1.1,780,trinidad and tobago,2018,center for ocean-atmospheric prediction studies (coaps),14001.0
+14,14.1,14.1.1,780,trinidad and tobago,2019,center for ocean-atmospheric prediction studies (coaps),12608.0
+14,14.1,14.1.1,780,trinidad and tobago,2020,center for ocean-atmospheric prediction studies (coaps),15807.0
+14,14.1,14.1.1,780,trinidad and tobago,2021,center for ocean-atmospheric prediction studies (coaps),14927.0
+14,14.1,14.1.1,788,tunisia,2017,center for ocean-atmospheric prediction studies (coaps),31754.0
+14,14.1,14.1.1,788,tunisia,2018,center for ocean-atmospheric prediction studies (coaps),40859.0
+14,14.1,14.1.1,788,tunisia,2019,center for ocean-atmospheric prediction studies (coaps),43590.0
+14,14.1,14.1.1,788,tunisia,2020,center for ocean-atmospheric prediction studies (coaps),36604.0
+14,14.1,14.1.1,788,tunisia,2021,center for ocean-atmospheric prediction studies (coaps),43249.0
+14,14.1,14.1.1,792,türkiye,2017,center for ocean-atmospheric prediction studies (coaps),142849.0
+14,14.1,14.1.1,792,türkiye,2018,center for ocean-atmospheric prediction studies (coaps),123348.0
+14,14.1,14.1.1,792,türkiye,2019,center for ocean-atmospheric prediction studies (coaps),164624.0
+14,14.1,14.1.1,792,türkiye,2020,center for ocean-atmospheric prediction studies (coaps),129179.0
+14,14.1,14.1.1,792,türkiye,2021,center for ocean-atmospheric prediction studies (coaps),153356.0
+14,14.1,14.1.1,804,ukraine,2017,center for ocean-atmospheric prediction studies (coaps),14783.0
+14,14.1,14.1.1,804,ukraine,2018,center for ocean-atmospheric prediction studies (coaps),9529.0
+14,14.1,14.1.1,804,ukraine,2019,center for ocean-atmospheric prediction studies (coaps),12876.0
+14,14.1,14.1.1,804,ukraine,2020,center for ocean-atmospheric prediction studies (coaps),11590.0
+14,14.1,14.1.1,804,ukraine,2021,center for ocean-atmospheric prediction studies (coaps),14103.0
+14,14.1,14.1.1,784,united arab emirates,2017,center for ocean-atmospheric prediction studies (coaps),73.0
+14,14.1,14.1.1,784,united arab emirates,2018,center for ocean-atmospheric prediction studies (coaps),39.0
+14,14.1,14.1.1,784,united arab emirates,2019,center for ocean-atmospheric prediction studies (coaps),74.0
+14,14.1,14.1.1,784,united arab emirates,2020,center for ocean-atmospheric prediction studies (coaps),66.0
+14,14.1,14.1.1,784,united arab emirates,2021,center for ocean-atmospheric prediction studies (coaps),76.0
+14,14.1,14.1.1,826,united kingdom of great britain and northern ireland,2017,center for ocean-atmospheric prediction studies (coaps),1141.0
+14,14.1,14.1.1,826,united kingdom of great britain and northern ireland,2018,center for ocean-atmospheric prediction studies (coaps),1838.0
+14,14.1,14.1.1,826,united kingdom of great britain and northern ireland,2019,center for ocean-atmospheric prediction studies (coaps),2249.0
+14,14.1,14.1.1,826,united kingdom of great britain and northern ireland,2020,center for ocean-atmospheric prediction studies (coaps),1908.0
+14,14.1,14.1.1,826,united kingdom of great britain and northern ireland,2021,center for ocean-atmospheric prediction studies (coaps),2427.0
+14,14.1,14.1.1,834,united republic of tanzania,2017,center for ocean-atmospheric prediction studies (coaps),69072.0
+14,14.1,14.1.1,834,united republic of tanzania,2018,center for ocean-atmospheric prediction studies (coaps),77313.0
+14,14.1,14.1.1,834,united republic of tanzania,2019,center for ocean-atmospheric prediction studies (coaps),84799.0
+14,14.1,14.1.1,834,united republic of tanzania,2020,center for ocean-atmospheric prediction studies (coaps),94065.0
+14,14.1,14.1.1,834,united republic of tanzania,2021,center for ocean-atmospheric prediction studies (coaps),88883.0
+14,14.1,14.1.1,840,united states of america,2017,center for ocean-atmospheric prediction studies (coaps),34416.0
+14,14.1,14.1.1,840,united states of america,2018,center for ocean-atmospheric prediction studies (coaps),35911.0
+14,14.1,14.1.1,840,united states of america,2019,center for ocean-atmospheric prediction studies (coaps),37323.0
+14,14.1,14.1.1,840,united states of america,2020,center for ocean-atmospheric prediction studies (coaps),38619.0
+14,14.1,14.1.1,840,united states of america,2021,center for ocean-atmospheric prediction studies (coaps),39274.0
+14,14.1,14.1.1,858,uruguay,2017,center for ocean-atmospheric prediction studies (coaps),71744.0
+14,14.1,14.1.1,858,uruguay,2018,center for ocean-atmospheric prediction studies (coaps),69925.0
+14,14.1,14.1.1,858,uruguay,2019,center for ocean-atmospheric prediction studies (coaps),67093.0
+14,14.1,14.1.1,858,uruguay,2020,center for ocean-atmospheric prediction studies (coaps),55327.0
+14,14.1,14.1.1,858,uruguay,2021,center for ocean-atmospheric prediction studies (coaps),49342.0
+14,14.1,14.1.1,548,vanuatu,2017,center for ocean-atmospheric prediction studies (coaps),266.0
+14,14.1,14.1.1,548,vanuatu,2018,center for ocean-atmospheric prediction studies (coaps),345.0
+14,14.1,14.1.1,548,vanuatu,2019,center for ocean-atmospheric prediction studies (coaps),233.0
+14,14.1,14.1.1,548,vanuatu,2020,center for ocean-atmospheric prediction studies (coaps),288.0
+14,14.1,14.1.1,548,vanuatu,2021,center for ocean-atmospheric prediction studies (coaps),361.0
+14,14.1,14.1.1,862,venezuela (bolivarian republic of),2017,center for ocean-atmospheric prediction studies (coaps),31212.0
+14,14.1,14.1.1,862,venezuela (bolivarian republic of),2018,center for ocean-atmospheric prediction studies (coaps),27909.0
+14,14.1,14.1.1,862,venezuela (bolivarian republic of),2019,center for ocean-atmospheric prediction studies (coaps),30179.0
+14,14.1,14.1.1,862,venezuela (bolivarian republic of),2020,center for ocean-atmospheric prediction studies (coaps),40812.0
+14,14.1,14.1.1,862,venezuela (bolivarian republic of),2021,center for ocean-atmospheric prediction studies (coaps),34660.0
+14,14.1,14.1.1,704,viet nam,2017,center for ocean-atmospheric prediction studies (coaps),184289.0
+14,14.1,14.1.1,704,viet nam,2018,center for ocean-atmospheric prediction studies (coaps),184496.0
+14,14.1,14.1.1,704,viet nam,2019,center for ocean-atmospheric prediction studies (coaps),172187.0
+14,14.1,14.1.1,704,viet nam,2020,center for ocean-atmospheric prediction studies (coaps),181584.0
+14,14.1,14.1.1,704,viet nam,2021,center for ocean-atmospheric prediction studies (coaps),191061.0
+14,14.1,14.1.1,11,western africa,2022,center for ocean-atmospheric prediction studies (coaps),25424.0
+14,14.1,14.1.1,145,western asia,2017,center for ocean-atmospheric prediction studies (coaps),158804.0
+14,14.1,14.1.1,145,western asia,2018,center for ocean-atmospheric prediction studies (coaps),139433.0
+14,14.1,14.1.1,145,western asia,2019,center for ocean-atmospheric prediction studies (coaps),181482.0
+14,14.1,14.1.1,145,western asia,2020,center for ocean-atmospheric prediction studies (coaps),145345.0
+14,14.1,14.1.1,145,western asia,2021,center for ocean-atmospheric prediction studies (coaps),169871.0
+14,14.1,14.1.1,145,western asia,2022,center for ocean-atmospheric prediction studies (coaps),160224.0
+14,14.1,14.1.1,155,western europe,2017,center for ocean-atmospheric prediction studies (coaps),1682.0
+14,14.1,14.1.1,155,western europe,2018,center for ocean-atmospheric prediction studies (coaps),3781.0
+14,14.1,14.1.1,155,western europe,2019,center for ocean-atmospheric prediction studies (coaps),3685.0
+14,14.1,14.1.1,155,western europe,2020,center for ocean-atmospheric prediction studies (coaps),2948.0
+14,14.1,14.1.1,155,western europe,2021,center for ocean-atmospheric prediction studies (coaps),2957.0
+14,14.1,14.1.1,155,western europe,2022,center for ocean-atmospheric prediction studies (coaps),4053.0
+14,14.1,14.1.1,732,western sahara,2017,center for ocean-atmospheric prediction studies (coaps),1680.0
+14,14.1,14.1.1,732,western sahara,2018,center for ocean-atmospheric prediction studies (coaps),1704.0
+14,14.1,14.1.1,732,western sahara,2019,center for ocean-atmospheric prediction studies (coaps),1741.0
+14,14.1,14.1.1,732,western sahara,2020,center for ocean-atmospheric prediction studies (coaps),1851.0
+14,14.1,14.1.1,732,western sahara,2021,center for ocean-atmospheric prediction studies (coaps),1898.0
+14,14.1,14.1.1,1,world,2017,center for ocean-atmospheric prediction studies (coaps),4804317.0
+14,14.1,14.1.1,1,world,2018,center for ocean-atmospheric prediction studies (coaps),4758948.0
+14,14.1,14.1.1,1,world,2019,center for ocean-atmospheric prediction studies (coaps),4712476.0
+14,14.1,14.1.1,1,world,2020,center for ocean-atmospheric prediction studies (coaps),4945444.0
+14,14.1,14.1.1,1,world,2021,center for ocean-atmospheric prediction studies (coaps),5334065.0
+14,14.1,14.1.1,1,world,2022,center for ocean-atmospheric prediction studies (coaps),5320311.0
+14,14.1,14.1.1,887,yemen,2017,center for ocean-atmospheric prediction studies (coaps),6555.0
+14,14.1,14.1.1,887,yemen,2018,center for ocean-atmospheric prediction studies (coaps),4234.0
+14,14.1,14.1.1,887,yemen,2019,center for ocean-atmospheric prediction studies (coaps),4198.0
+14,14.1,14.1.1,887,yemen,2020,center for ocean-atmospheric prediction studies (coaps),4905.0
+14,14.1,14.1.1,887,yemen,2021,center for ocean-atmospheric prediction studies (coaps),4915.0

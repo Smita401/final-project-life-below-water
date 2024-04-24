@@ -1,0 +1,2 @@
+model_checkpoint_path: "corals_classification_model_checkpoint"
+all_model_checkpoint_paths: "corals_classification_model_checkpoint"

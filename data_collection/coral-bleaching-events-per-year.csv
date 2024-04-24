@@ -1,0 +1,186 @@
+region,code,year,moderate bleaching events (1-30% bleached),severe bleaching events (>30% bleached)
+Australasia,AA,1980,3,0
+Australasia,AA,1981,1,0
+Australasia,AA,1982,0,0
+Australasia,AA,1983,3,1
+Australasia,AA,1984,1,0
+Australasia,AA,1985,0,0
+Australasia,AA,1986,2,0
+Australasia,AA,1987,1,1
+Australasia,AA,1988,1,1
+Australasia,AA,1989,0,0
+Australasia,AA,1990,0,0
+Australasia,AA,1991,0,1
+Australasia,AA,1992,1,0
+Australasia,AA,1993,0,1
+Australasia,AA,1994,1,0
+Australasia,AA,1995,1,1
+Australasia,AA,1996,0,0
+Australasia,AA,1997,2,0
+Australasia,AA,1998,1,19
+Australasia,AA,1999,2,0
+Australasia,AA,2000,2,2
+Australasia,AA,2001,3,0
+Australasia,AA,2002,1,4
+Australasia,AA,2003,0,1
+Australasia,AA,2004,3,0
+Australasia,AA,2005,5,1
+Australasia,AA,2006,3,0
+Australasia,AA,2007,2,2
+Australasia,AA,2008,3,2
+Australasia,AA,2009,3,0
+Australasia,AA,2010,3,15
+Australasia,AA,2011,2,3
+Australasia,AA,2012,2,1
+Australasia,AA,2013,1,1
+Australasia,AA,2014,4,0
+Australasia,AA,2015,1,2
+Australasia,AA,2016,6,21
+Indian Ocean/Middle East,IOME,1980,0,0
+Indian Ocean/Middle East,IOME,1981,0,0
+Indian Ocean/Middle East,IOME,1982,0,0
+Indian Ocean/Middle East,IOME,1983,1,3
+Indian Ocean/Middle East,IOME,1984,0,0
+Indian Ocean/Middle East,IOME,1985,0,0
+Indian Ocean/Middle East,IOME,1986,0,0
+Indian Ocean/Middle East,IOME,1987,0,4
+Indian Ocean/Middle East,IOME,1988,0,0
+Indian Ocean/Middle East,IOME,1989,0,0
+Indian Ocean/Middle East,IOME,1990,0,0
+Indian Ocean/Middle East,IOME,1991,0,0
+Indian Ocean/Middle East,IOME,1992,0,0
+Indian Ocean/Middle East,IOME,1993,0,0
+Indian Ocean/Middle East,IOME,1994,0,0
+Indian Ocean/Middle East,IOME,1995,0,0
+Indian Ocean/Middle East,IOME,1996,1,1
+Indian Ocean/Middle East,IOME,1997,0,0
+Indian Ocean/Middle East,IOME,1998,4,17
+Indian Ocean/Middle East,IOME,1999,0,0
+Indian Ocean/Middle East,IOME,2000,1,0
+Indian Ocean/Middle East,IOME,2001,3,0
+Indian Ocean/Middle East,IOME,2002,3,3
+Indian Ocean/Middle East,IOME,2003,6,1
+Indian Ocean/Middle East,IOME,2004,4,2
+Indian Ocean/Middle East,IOME,2005,6,5
+Indian Ocean/Middle East,IOME,2006,0,0
+Indian Ocean/Middle East,IOME,2007,3,1
+Indian Ocean/Middle East,IOME,2008,0,0
+Indian Ocean/Middle East,IOME,2009,2,0
+Indian Ocean/Middle East,IOME,2010,1,13
+Indian Ocean/Middle East,IOME,2011,5,0
+Indian Ocean/Middle East,IOME,2012,1,0
+Indian Ocean/Middle East,IOME,2013,1,0
+Indian Ocean/Middle East,IOME,2014,2,0
+Indian Ocean/Middle East,IOME,2015,2,4
+Indian Ocean/Middle East,IOME,2016,4,15
+Pacific,PA,1980,0,0
+Pacific,PA,1981,0,0
+Pacific,PA,1982,0,0
+Pacific,PA,1983,1,5
+Pacific,PA,1984,0,1
+Pacific,PA,1985,0,0
+Pacific,PA,1986,1,0
+Pacific,PA,1987,0,4
+Pacific,PA,1988,1,0
+Pacific,PA,1989,0,0
+Pacific,PA,1990,0,0
+Pacific,PA,1991,0,3
+Pacific,PA,1992,3,0
+Pacific,PA,1993,0,0
+Pacific,PA,1994,1,4
+Pacific,PA,1995,2,0
+Pacific,PA,1996,1,4
+Pacific,PA,1997,1,1
+Pacific,PA,1998,4,8
+Pacific,PA,1999,1,0
+Pacific,PA,2000,0,3
+Pacific,PA,2001,3,1
+Pacific,PA,2002,0,7
+Pacific,PA,2003,2,2
+Pacific,PA,2004,2,3
+Pacific,PA,2005,2,1
+Pacific,PA,2006,7,1
+Pacific,PA,2007,0,2
+Pacific,PA,2008,0,0
+Pacific,PA,2009,1,2
+Pacific,PA,2010,2,2
+Pacific,PA,2011,1,0
+Pacific,PA,2012,1,0
+Pacific,PA,2013,0,2
+Pacific,PA,2014,0,5
+Pacific,PA,2015,2,8
+Pacific,PA,2016,0,7
+West Atlantic,WA,1980,2,0
+West Atlantic,WA,1981,1,0
+West Atlantic,WA,1982,1,0
+West Atlantic,WA,1983,3,5
+West Atlantic,WA,1984,0,0
+West Atlantic,WA,1985,1,0
+West Atlantic,WA,1986,1,0
+West Atlantic,WA,1987,6,10
+West Atlantic,WA,1988,6,2
+West Atlantic,WA,1989,3,1
+West Atlantic,WA,1990,7,4
+West Atlantic,WA,1991,3,1
+West Atlantic,WA,1992,2,1
+West Atlantic,WA,1993,3,0
+West Atlantic,WA,1994,2,0
+West Atlantic,WA,1995,6,8
+West Atlantic,WA,1996,2,0
+West Atlantic,WA,1997,8,1
+West Atlantic,WA,1998,7,13
+West Atlantic,WA,1999,7,0
+West Atlantic,WA,2000,5,0
+West Atlantic,WA,2001,2,0
+West Atlantic,WA,2002,4,0
+West Atlantic,WA,2003,9,1
+West Atlantic,WA,2004,5,0
+West Atlantic,WA,2005,6,14
+West Atlantic,WA,2006,6,1
+West Atlantic,WA,2007,5,0
+West Atlantic,WA,2008,4,1
+West Atlantic,WA,2009,4,2
+West Atlantic,WA,2010,10,7
+West Atlantic,WA,2011,3,0
+West Atlantic,WA,2012,2,0
+West Atlantic,WA,2013,2,0
+West Atlantic,WA,2014,3,0
+West Atlantic,WA,2015,8,3
+West Atlantic,WA,2016,0,0
+World,WO,1980,5,0
+World,WO,1981,2,0
+World,WO,1982,1,0
+World,WO,1983,8,14
+World,WO,1984,1,1
+World,WO,1985,1,0
+World,WO,1986,4,0
+World,WO,1987,7,19
+World,WO,1988,8,3
+World,WO,1989,3,1
+World,WO,1990,7,4
+World,WO,1991,3,5
+World,WO,1992,6,1
+World,WO,1993,4,1
+World,WO,1994,4,4
+World,WO,1995,9,9
+World,WO,1996,4,5
+World,WO,1997,12,2
+World,WO,1998,16,57
+World,WO,1999,10,0
+World,WO,2000,8,5
+World,WO,2001,11,1
+World,WO,2002,7,14
+World,WO,2003,18,5
+World,WO,2004,14,5
+World,WO,2005,19,21
+World,WO,2006,16,2
+World,WO,2007,11,5
+World,WO,2008,7,3
+World,WO,2009,10,4
+World,WO,2010,16,37
+World,WO,2011,11,3
+World,WO,2012,6,1
+World,WO,2013,5,3
+World,WO,2014,9,5
+World,WO,2015,14,16
+World,WO,2016,11,43

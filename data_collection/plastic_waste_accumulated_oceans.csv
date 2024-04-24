@@ -1,0 +1,41 @@
+entity,year,plastic_waste_accumulated_in_ocean
+Americas (excl. USA),2000,1104799.0
+Americas (excl. USA),2005,1640651.0
+Americas (excl. USA),2010,2369481.0
+Americas (excl. USA),2015,3308621.0
+Asia (excl. China and India),2000,1815446.0
+Asia (excl. China and India),2005,2795849.0
+Asia (excl. China and India),2010,4171954.0
+Asia (excl. China and India),2015,5992579.0
+China,2000,683704.0
+China,2005,1191053.0
+China,2010,1937053.0
+China,2015,2937417.0
+Europe,2000,2108221.0
+Europe,2005,2789810.0
+Europe,2010,3556755.0
+Europe,2015,4377486.0
+India,2000,153987.0
+India,2005,296324.0
+India,2010,520510.97
+India,2015,854925.0
+Middle East & North Africa,2000,538256.0
+Middle East & North Africa,2005,772796.0
+Middle East & North Africa,2010,1079166.0
+Middle East & North Africa,2015,1465308.0
+Oceania,2000,6081.0
+Oceania,2005,9811.0
+Oceania,2010,15251.0
+Oceania,2015,22699.0
+Sub-Saharan Africa,2000,582204.0
+Sub-Saharan Africa,2005,940111.0
+Sub-Saharan Africa,2010,1472440.0
+Sub-Saharan Africa,2015,2215206.0
+United States,2000,1479050.0
+United States,2005,1920488.0
+United States,2010,2409952.0
+United States,2015,2928552.0
+World,2000,8471748.0
+World,2005,12356893.0
+World,2010,17532564.0
+World,2015,24102792.0

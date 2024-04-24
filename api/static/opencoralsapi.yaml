@@ -1,0 +1,131 @@
+openapi: 3.0.3
+info:
+  title: Global Bleaching Environment dataset API
+  description: |-
+    This API exposes the Global Bleaching Environment dataset. The following dataset has been used to build it:
+    * The Global Bleaching Environment dataset: https://www.bco-dmo.org/dataset/773466
+    
+    The dataset contains around 10,000 samples along with all the information about the location where the sample was taken, distance to land, exposure, percent cover & percent bleaching per substrate, turbidity, cyclone frequency and year of the sampling.
+    
+  contact:
+    email: your@email.here
+  license:
+    name: CC BY-NC 3.0
+    url: https://creativecommons.org/licenses/by-nc/3.0/
+  version: 1.0.0
+paths:
+  /samples/{sample_id}:
+    get:
+      summary: Get sample details by ID
+      description: Returns details of a sample based on its ID.
+      parameters:
+        - name: sample_id
+          in: path
+          description: ID of the sample
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Sample'
+        '404':
+          description: Sample not found
+        '500':
+          description: Internal server error
+  /samples:
+    get:
+      summary: Get samples
+      description: Returns a list of samples.
+      parameters:
+        - name: page
+          in: query
+          description: Index of the page (used for pagination)
+          schema:
+            type: integer
+            example: 1
+        - name: page_size
+          in: query
+          description: Number of samples per page (used for pagination)
+          schema:
+            type: integer
+            example: 100
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  samples:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/Sample'
+                  next_page:
+                    type: integer
+                    example: 2
+                  last_page:
+                    type: integer
+                    example: 10
+        '404':
+          description: Samples not found
+        '500':
+          description: Internal server error
+  /samples/year/{year}:
+    get:
+      summary: Get samples by year
+      description: Returns samples from a specific year.
+      parameters:
+        - name: year
+          in: path
+          description: Year of the samples
+          required: true
+          schema:
+            type: integer
+            example: 2022
+        - name: page
+          in: query
+          description: Index of the page (used for pagination)
+          schema:
+            type: integer
+            example: 1
+        - name: page_size
+          in: query
+          description: Number of samples per page (used for pagination)
+          schema:
+            type: integer
+            example: 100
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  samples:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/Sample'
+                  next_page:
+                    type: integer
+                    example: 2
+                  last_page:
+                    type: integer
+                    example: 10
+        '404':
+          description: Samples not found
+        '500':
+          description: Internal server error
+components:
+  schemas:
+    Sample:
+      type: object
+      properties:
+        sample_id:
+          type: integer
+          example: 1
